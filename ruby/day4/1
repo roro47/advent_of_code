@@ -1,0 +1,74 @@
+WORKER_ID = 1
+ASLEEP = 2
+WAKEUP = 3
+
+# format each line of info in a chronologically sortable format
+class GuardRecord
+  attr_reader :year, :month, :day, :hour, :minute, :type, :id
+  def initialize(s)
+    times = s.match('\[.*\]',).to_s.gsub(/\[|\]/, '').gsub(/:|-/, ' ').split(' ').map { |x| x.to_i }
+    @minute = times[4]
+    @type = -1
+    @id = -1
+    if s.match('#') != nil
+      @type = WORKER_ID
+      @id = s.match('#\d*').to_s.sub('#', '').to_i
+    elsif s.match('asleep') != nil
+      @type = ASLEEP
+    elsif s.match('wakes') != nil
+      @type = WAKEUP
+    end
+  end
+end
+
+def process_inputs
+  File::readlines('day4_p1_input.txt').sort.map { |x| GuardRecord.new(x) }
+end
+
+def part1
+  records = process_inputs
+
+  curr_id = -1
+  i = 0
+
+  asleep_time = Hash.new
+  total_sleep_time = Hash.new(0)
+  while i < records.length
+    if records[i].type == WORKER_ID
+      curr_id = records[i].id
+    else
+      if records[i].type == ASLEEP
+        time_add = records[i+1].minute - records[i].minute
+        total_sleep_time[curr_id] += time_add
+        if !asleep_time.has_key?(curr_id)
+          asleep_time[curr_id] = Array.new
+        end
+        asleep_time[curr_id].push([records[i], time_add])
+        i = i + 1
+      end
+    end
+    i = i + 1
+  end
+
+  pair = total_sleep_time.max_by{ |k, v| v}
+  max_id = pair[0]
+  max_time = pair[1]
+
+  intervals = asleep_time[max_id]
+  most_sleep_hash = Hash.new(0)
+  for item in intervals
+    for j in 0..(item[1] - 1)
+      most_sleep_hash[item[0].minute+j] += 1
+    end
+  end
+
+  max_minute = -1
+  max_times = 0
+  most_sleep_hash.each do |minute, times|
+    if times > max_times
+      max_times = times
+      max_minute = minute
+    end
+  end
+  puts "answer: #{max_id *max_minute}"
+end

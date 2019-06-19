@@ -1,0 +1,923 @@
+part1 answer
+result: FHMEQGIRSXNWZBCLOTUADJPKVY
+time: 0  worker 1 : F |worker 2 : H |worker 3 : R |worker 4 : X |worker 5 :  |
+time: 1  worker 1 : F |worker 2 : H |worker 3 : R |worker 4 : X |worker 5 :  |
+time: 2  worker 1 : F |worker 2 : H |worker 3 : R |worker 4 : X |worker 5 :  |
+time: 3  worker 1 : F |worker 2 : H |worker 3 : R |worker 4 : X |worker 5 :  |
+time: 4  worker 1 : F |worker 2 : H |worker 3 : R |worker 4 : X |worker 5 :  |
+time: 5  worker 1 : F |worker 2 : H |worker 3 : R |worker 4 : X |worker 5 :  |
+time: 6  worker 1 : F |worker 2 : H |worker 3 : R |worker 4 : X |worker 5 :  |
+time: 7  worker 1 : F |worker 2 : H |worker 3 : R |worker 4 : X |worker 5 :  |
+time: 8  worker 1 : F |worker 2 : H |worker 3 : R |worker 4 : X |worker 5 :  |
+time: 9  worker 1 : F |worker 2 : H |worker 3 : R |worker 4 : X |worker 5 :  |
+time: 10  worker 1 : F |worker 2 : H |worker 3 : R |worker 4 : X |worker 5 :  |
+time: 11  worker 1 : F |worker 2 : H |worker 3 : R |worker 4 : X |worker 5 :  |
+time: 12  worker 1 : F |worker 2 : H |worker 3 : R |worker 4 : X |worker 5 :  |
+time: 13  worker 1 : F |worker 2 : H |worker 3 : R |worker 4 : X |worker 5 :  |
+time: 14  worker 1 : F |worker 2 : H |worker 3 : R |worker 4 : X |worker 5 :  |
+time: 15  worker 1 : F |worker 2 : H |worker 3 : R |worker 4 : X |worker 5 :  |
+time: 16  worker 1 : F |worker 2 : H |worker 3 : R |worker 4 : X |worker 5 :  |
+time: 17  worker 1 : F |worker 2 : H |worker 3 : R |worker 4 : X |worker 5 :  |
+time: 18  worker 1 : F |worker 2 : H |worker 3 : R |worker 4 : X |worker 5 :  |
+time: 19  worker 1 : F |worker 2 : H |worker 3 : R |worker 4 : X |worker 5 :  |
+time: 20  worker 1 : F |worker 2 : H |worker 3 : R |worker 4 : X |worker 5 :  |
+time: 21  worker 1 : F |worker 2 : H |worker 3 : R |worker 4 : X |worker 5 :  |
+time: 22  worker 1 : F |worker 2 : H |worker 3 : R |worker 4 : X |worker 5 :  |
+time: 23  worker 1 : F |worker 2 : H |worker 3 : R |worker 4 : X |worker 5 :  |
+time: 24  worker 1 : F |worker 2 : H |worker 3 : R |worker 4 : X |worker 5 :  |
+time: 25  worker 1 : F |worker 2 : H |worker 3 : R |worker 4 : X |worker 5 :  |
+time: 26  worker 1 : F |worker 2 : H |worker 3 : R |worker 4 : X |worker 5 :  |
+time: 27  worker 1 : F |worker 2 : H |worker 3 : R |worker 4 : X |worker 5 :  |
+time: 28  worker 1 : F |worker 2 : H |worker 3 : R |worker 4 : X |worker 5 :  |
+time: 29  worker 1 : F |worker 2 : H |worker 3 : R |worker 4 : X |worker 5 :  |
+time: 30  worker 1 : F |worker 2 : H |worker 3 : R |worker 4 : X |worker 5 :  |
+time: 31  worker 1 : F |worker 2 : H |worker 3 : R |worker 4 : X |worker 5 :  |
+time: 32  worker 1 : F |worker 2 : H |worker 3 : R |worker 4 : X |worker 5 :  |
+time: 33  worker 1 : F |worker 2 : H |worker 3 : R |worker 4 : X |worker 5 :  |
+time: 34  worker 1 : F |worker 2 : H |worker 3 : R |worker 4 : X |worker 5 :  |
+time: 35  worker 1 : F |worker 2 : H |worker 3 : R |worker 4 : X |worker 5 :  |
+time: 36  worker 1 : F |worker 2 : H |worker 3 : R |worker 4 : X |worker 5 :  |
+time: 37  worker 1 : F |worker 2 : H |worker 3 : R |worker 4 : X |worker 5 :  |
+time: 38  worker 1 : F |worker 2 : H |worker 3 : R |worker 4 : X |worker 5 :  |
+time: 39  worker 1 : F |worker 2 : H |worker 3 : R |worker 4 : X |worker 5 :  |
+time: 40  worker 1 : F |worker 2 : H |worker 3 : R |worker 4 : X |worker 5 :  |
+time: 41  worker 1 : F |worker 2 : H |worker 3 : R |worker 4 : X |worker 5 :  |
+time: 42  worker 1 : F |worker 2 : H |worker 3 : R |worker 4 : X |worker 5 :  |
+time: 43  worker 1 : F |worker 2 : H |worker 3 : R |worker 4 : X |worker 5 :  |
+time: 44  worker 1 : F |worker 2 : H |worker 3 : R |worker 4 : X |worker 5 :  |
+time: 45  worker 1 : F |worker 2 : H |worker 3 : R |worker 4 : X |worker 5 :  |
+time: 46  worker 1 : F |worker 2 : H |worker 3 : R |worker 4 : X |worker 5 :  |
+time: 47  worker 1 : F |worker 2 : H |worker 3 : R |worker 4 : X |worker 5 :  |
+time: 48  worker 1 : F |worker 2 : H |worker 3 : R |worker 4 : X |worker 5 :  |
+time: 49  worker 1 : F |worker 2 : H |worker 3 : R |worker 4 : X |worker 5 :  |
+time: 50  worker 1 : F |worker 2 : H |worker 3 : R |worker 4 : X |worker 5 :  |
+time: 51  worker 1 : F |worker 2 : H |worker 3 : R |worker 4 : X |worker 5 :  |
+time: 52  worker 1 : F |worker 2 : H |worker 3 : R |worker 4 : X |worker 5 :  |
+time: 53  worker 1 : F |worker 2 : H |worker 3 : R |worker 4 : X |worker 5 :  |
+time: 54  worker 1 : F |worker 2 : H |worker 3 : R |worker 4 : X |worker 5 :  |
+time: 55  worker 1 : F |worker 2 : H |worker 3 : R |worker 4 : X |worker 5 :  |
+time: 56  worker 1 : F |worker 2 : H |worker 3 : R |worker 4 : X |worker 5 :  |
+time: 57  worker 1 : F |worker 2 : H |worker 3 : R |worker 4 : X |worker 5 :  |
+time: 58  worker 1 : F |worker 2 : H |worker 3 : R |worker 4 : X |worker 5 :  |
+time: 59  worker 1 : F |worker 2 : H |worker 3 : R |worker 4 : X |worker 5 :  |
+time: 60  worker 1 : F |worker 2 : H |worker 3 : R |worker 4 : X |worker 5 :  |
+time: 61  worker 1 : F |worker 2 : H |worker 3 : R |worker 4 : X |worker 5 :  |
+time: 62  worker 1 : F |worker 2 : H |worker 3 : R |worker 4 : X |worker 5 :  |
+time: 63  worker 1 : F |worker 2 : H |worker 3 : R |worker 4 : X |worker 5 :  |
+time: 64  worker 1 : F |worker 2 : H |worker 3 : R |worker 4 : X |worker 5 :  |
+time: 65  worker 1 : F |worker 2 : H |worker 3 : R |worker 4 : X |worker 5 :  |
+time: 66  worker 1 : M |worker 2 : H |worker 3 : R |worker 4 : X |worker 5 : Q |
+time: 67  worker 1 : M |worker 2 : H |worker 3 : R |worker 4 : X |worker 5 : Q |
+time: 68  worker 1 : M |worker 2 :  |worker 3 : R |worker 4 : X |worker 5 : Q |
+time: 69  worker 1 : M |worker 2 :  |worker 3 : R |worker 4 : X |worker 5 : Q |
+time: 70  worker 1 : M |worker 2 :  |worker 3 : R |worker 4 : X |worker 5 : Q |
+time: 71  worker 1 : M |worker 2 :  |worker 3 : R |worker 4 : X |worker 5 : Q |
+time: 72  worker 1 : M |worker 2 :  |worker 3 : R |worker 4 : X |worker 5 : Q |
+time: 73  worker 1 : M |worker 2 :  |worker 3 : R |worker 4 : X |worker 5 : Q |
+time: 74  worker 1 : M |worker 2 :  |worker 3 : R |worker 4 : X |worker 5 : Q |
+time: 75  worker 1 : M |worker 2 :  |worker 3 : R |worker 4 : X |worker 5 : Q |
+time: 76  worker 1 : M |worker 2 :  |worker 3 : R |worker 4 : X |worker 5 : Q |
+time: 77  worker 1 : M |worker 2 :  |worker 3 : R |worker 4 : X |worker 5 : Q |
+time: 78  worker 1 : M |worker 2 :  |worker 3 : S |worker 4 : X |worker 5 : Q |
+time: 79  worker 1 : M |worker 2 :  |worker 3 : S |worker 4 : X |worker 5 : Q |
+time: 80  worker 1 : M |worker 2 :  |worker 3 : S |worker 4 : X |worker 5 : Q |
+time: 81  worker 1 : M |worker 2 :  |worker 3 : S |worker 4 : X |worker 5 : Q |
+time: 82  worker 1 : M |worker 2 :  |worker 3 : S |worker 4 : X |worker 5 : Q |
+time: 83  worker 1 : M |worker 2 :  |worker 3 : S |worker 4 : X |worker 5 : Q |
+time: 84  worker 1 : M |worker 2 :  |worker 3 : S |worker 4 : N |worker 5 : Q |
+time: 85  worker 1 : M |worker 2 :  |worker 3 : S |worker 4 : N |worker 5 : Q |
+time: 86  worker 1 : M |worker 2 :  |worker 3 : S |worker 4 : N |worker 5 : Q |
+time: 87  worker 1 : M |worker 2 :  |worker 3 : S |worker 4 : N |worker 5 : Q |
+time: 88  worker 1 : M |worker 2 :  |worker 3 : S |worker 4 : N |worker 5 : Q |
+time: 89  worker 1 : M |worker 2 :  |worker 3 : S |worker 4 : N |worker 5 : Q |
+time: 90  worker 1 : M |worker 2 :  |worker 3 : S |worker 4 : N |worker 5 : Q |
+time: 91  worker 1 : M |worker 2 :  |worker 3 : S |worker 4 : N |worker 5 : Q |
+time: 92  worker 1 : M |worker 2 :  |worker 3 : S |worker 4 : N |worker 5 : Q |
+time: 93  worker 1 : M |worker 2 :  |worker 3 : S |worker 4 : N |worker 5 : Q |
+time: 94  worker 1 : M |worker 2 :  |worker 3 : S |worker 4 : N |worker 5 : Q |
+time: 95  worker 1 : M |worker 2 :  |worker 3 : S |worker 4 : N |worker 5 : Q |
+time: 96  worker 1 : M |worker 2 :  |worker 3 : S |worker 4 : N |worker 5 : Q |
+time: 97  worker 1 : M |worker 2 :  |worker 3 : S |worker 4 : N |worker 5 : Q |
+time: 98  worker 1 : M |worker 2 :  |worker 3 : S |worker 4 : N |worker 5 : Q |
+time: 99  worker 1 : M |worker 2 :  |worker 3 : S |worker 4 : N |worker 5 : Q |
+time: 100  worker 1 : M |worker 2 :  |worker 3 : S |worker 4 : N |worker 5 : Q |
+time: 101  worker 1 : M |worker 2 :  |worker 3 : S |worker 4 : N |worker 5 : Q |
+time: 102  worker 1 : M |worker 2 :  |worker 3 : S |worker 4 : N |worker 5 : Q |
+time: 103  worker 1 : M |worker 2 :  |worker 3 : S |worker 4 : N |worker 5 : Q |
+time: 104  worker 1 : M |worker 2 :  |worker 3 : S |worker 4 : N |worker 5 : Q |
+time: 105  worker 1 : M |worker 2 :  |worker 3 : S |worker 4 : N |worker 5 : Q |
+time: 106  worker 1 : M |worker 2 :  |worker 3 : S |worker 4 : N |worker 5 : Q |
+time: 107  worker 1 : M |worker 2 :  |worker 3 : S |worker 4 : N |worker 5 : Q |
+time: 108  worker 1 : M |worker 2 :  |worker 3 : S |worker 4 : N |worker 5 : Q |
+time: 109  worker 1 : M |worker 2 :  |worker 3 : S |worker 4 : N |worker 5 : Q |
+time: 110  worker 1 : M |worker 2 :  |worker 3 : S |worker 4 : N |worker 5 : Q |
+time: 111  worker 1 : M |worker 2 :  |worker 3 : S |worker 4 : N |worker 5 : Q |
+time: 112  worker 1 : M |worker 2 :  |worker 3 : S |worker 4 : N |worker 5 : Q |
+time: 113  worker 1 : M |worker 2 :  |worker 3 : S |worker 4 : N |worker 5 : Q |
+time: 114  worker 1 : M |worker 2 :  |worker 3 : S |worker 4 : N |worker 5 : Q |
+time: 115  worker 1 : M |worker 2 :  |worker 3 : S |worker 4 : N |worker 5 : Q |
+time: 116  worker 1 : M |worker 2 :  |worker 3 : S |worker 4 : N |worker 5 : Q |
+time: 117  worker 1 : M |worker 2 :  |worker 3 : S |worker 4 : N |worker 5 : Q |
+time: 118  worker 1 : M |worker 2 :  |worker 3 : S |worker 4 : N |worker 5 : Q |
+time: 119  worker 1 : M |worker 2 :  |worker 3 : S |worker 4 : N |worker 5 : Q |
+time: 120  worker 1 : M |worker 2 :  |worker 3 : S |worker 4 : N |worker 5 : Q |
+time: 121  worker 1 : M |worker 2 :  |worker 3 : S |worker 4 : N |worker 5 : Q |
+time: 122  worker 1 : M |worker 2 :  |worker 3 : S |worker 4 : N |worker 5 : Q |
+time: 123  worker 1 : M |worker 2 :  |worker 3 : S |worker 4 : N |worker 5 : Q |
+time: 124  worker 1 : M |worker 2 :  |worker 3 : S |worker 4 : N |worker 5 : Q |
+time: 125  worker 1 : M |worker 2 :  |worker 3 : S |worker 4 : N |worker 5 : Q |
+time: 126  worker 1 : M |worker 2 :  |worker 3 : S |worker 4 : N |worker 5 : Q |
+time: 127  worker 1 : M |worker 2 :  |worker 3 : S |worker 4 : N |worker 5 : Q |
+time: 128  worker 1 : M |worker 2 :  |worker 3 : S |worker 4 : N |worker 5 : Q |
+time: 129  worker 1 : M |worker 2 :  |worker 3 : S |worker 4 : N |worker 5 : Q |
+time: 130  worker 1 : M |worker 2 :  |worker 3 : S |worker 4 : N |worker 5 : Q |
+time: 131  worker 1 : M |worker 2 :  |worker 3 : S |worker 4 : N |worker 5 : Q |
+time: 132  worker 1 : M |worker 2 :  |worker 3 : S |worker 4 : N |worker 5 : Q |
+time: 133  worker 1 : M |worker 2 :  |worker 3 : S |worker 4 : N |worker 5 : Q |
+time: 134  worker 1 : M |worker 2 :  |worker 3 : S |worker 4 : N |worker 5 : Q |
+time: 135  worker 1 : M |worker 2 :  |worker 3 : S |worker 4 : N |worker 5 : Q |
+time: 136  worker 1 : M |worker 2 :  |worker 3 : S |worker 4 : N |worker 5 : Q |
+time: 137  worker 1 : M |worker 2 :  |worker 3 : S |worker 4 : N |worker 5 : Q |
+time: 138  worker 1 : M |worker 2 :  |worker 3 : S |worker 4 : N |worker 5 : Q |
+time: 139  worker 1 : E |worker 2 :  |worker 3 : S |worker 4 : N |worker 5 : Q |
+time: 140  worker 1 : E |worker 2 :  |worker 3 : S |worker 4 : N |worker 5 : Q |
+time: 141  worker 1 : E |worker 2 :  |worker 3 : S |worker 4 : N |worker 5 : Q |
+time: 142  worker 1 : E |worker 2 :  |worker 3 : S |worker 4 : N |worker 5 : Q |
+time: 143  worker 1 : E |worker 2 :  |worker 3 : S |worker 4 : N |worker 5 : G |
+time: 144  worker 1 : E |worker 2 :  |worker 3 : S |worker 4 : N |worker 5 : G |
+time: 145  worker 1 : E |worker 2 :  |worker 3 : S |worker 4 : N |worker 5 : G |
+time: 146  worker 1 : E |worker 2 :  |worker 3 : S |worker 4 : N |worker 5 : G |
+time: 147  worker 1 : E |worker 2 :  |worker 3 : S |worker 4 : N |worker 5 : G |
+time: 148  worker 1 : E |worker 2 :  |worker 3 : S |worker 4 : N |worker 5 : G |
+time: 149  worker 1 : E |worker 2 :  |worker 3 : S |worker 4 : N |worker 5 : G |
+time: 150  worker 1 : E |worker 2 :  |worker 3 : S |worker 4 : N |worker 5 : G |
+time: 151  worker 1 : E |worker 2 :  |worker 3 : S |worker 4 : N |worker 5 : G |
+time: 152  worker 1 : E |worker 2 :  |worker 3 : S |worker 4 : N |worker 5 : G |
+time: 153  worker 1 : E |worker 2 :  |worker 3 : S |worker 4 : N |worker 5 : G |
+time: 154  worker 1 : E |worker 2 :  |worker 3 : S |worker 4 : N |worker 5 : G |
+time: 155  worker 1 : E |worker 2 :  |worker 3 : S |worker 4 : N |worker 5 : G |
+time: 156  worker 1 : E |worker 2 :  |worker 3 : S |worker 4 : N |worker 5 : G |
+time: 157  worker 1 : E |worker 2 :  |worker 3 :  |worker 4 : N |worker 5 : G |
+time: 158  worker 1 : E |worker 2 :  |worker 3 :  |worker 4 : W |worker 5 : G |
+time: 159  worker 1 : E |worker 2 : Z |worker 3 :  |worker 4 : W |worker 5 : G |
+time: 160  worker 1 : E |worker 2 : Z |worker 3 :  |worker 4 : W |worker 5 : G |
+time: 161  worker 1 : E |worker 2 : Z |worker 3 :  |worker 4 : W |worker 5 : G |
+time: 162  worker 1 : E |worker 2 : Z |worker 3 :  |worker 4 : W |worker 5 : G |
+time: 163  worker 1 : E |worker 2 : Z |worker 3 :  |worker 4 : W |worker 5 : G |
+time: 164  worker 1 : E |worker 2 : Z |worker 3 :  |worker 4 : W |worker 5 : G |
+time: 165  worker 1 : E |worker 2 : Z |worker 3 :  |worker 4 : W |worker 5 : G |
+time: 166  worker 1 : E |worker 2 : Z |worker 3 :  |worker 4 : W |worker 5 : G |
+time: 167  worker 1 : E |worker 2 : Z |worker 3 :  |worker 4 : W |worker 5 : G |
+time: 168  worker 1 : E |worker 2 : Z |worker 3 :  |worker 4 : W |worker 5 : G |
+time: 169  worker 1 : E |worker 2 : Z |worker 3 :  |worker 4 : W |worker 5 : G |
+time: 170  worker 1 : E |worker 2 : Z |worker 3 :  |worker 4 : W |worker 5 : G |
+time: 171  worker 1 : E |worker 2 : Z |worker 3 :  |worker 4 : W |worker 5 : G |
+time: 172  worker 1 : E |worker 2 : Z |worker 3 :  |worker 4 : W |worker 5 : G |
+time: 173  worker 1 : E |worker 2 : Z |worker 3 :  |worker 4 : W |worker 5 : G |
+time: 174  worker 1 : E |worker 2 : Z |worker 3 :  |worker 4 : W |worker 5 : G |
+time: 175  worker 1 : E |worker 2 : Z |worker 3 :  |worker 4 : W |worker 5 : G |
+time: 176  worker 1 : E |worker 2 : Z |worker 3 :  |worker 4 : W |worker 5 : G |
+time: 177  worker 1 : E |worker 2 : Z |worker 3 :  |worker 4 : W |worker 5 : G |
+time: 178  worker 1 : E |worker 2 : Z |worker 3 :  |worker 4 : W |worker 5 : G |
+time: 179  worker 1 : E |worker 2 : Z |worker 3 :  |worker 4 : W |worker 5 : G |
+time: 180  worker 1 : E |worker 2 : Z |worker 3 :  |worker 4 : W |worker 5 : G |
+time: 181  worker 1 : E |worker 2 : Z |worker 3 :  |worker 4 : W |worker 5 : G |
+time: 182  worker 1 : E |worker 2 : Z |worker 3 :  |worker 4 : W |worker 5 : G |
+time: 183  worker 1 : E |worker 2 : Z |worker 3 :  |worker 4 : W |worker 5 : G |
+time: 184  worker 1 : E |worker 2 : Z |worker 3 :  |worker 4 : W |worker 5 : G |
+time: 185  worker 1 : E |worker 2 : Z |worker 3 :  |worker 4 : W |worker 5 : G |
+time: 186  worker 1 : E |worker 2 : Z |worker 3 :  |worker 4 : W |worker 5 : G |
+time: 187  worker 1 : E |worker 2 : Z |worker 3 :  |worker 4 : W |worker 5 : G |
+time: 188  worker 1 : E |worker 2 : Z |worker 3 :  |worker 4 : W |worker 5 : G |
+time: 189  worker 1 : E |worker 2 : Z |worker 3 :  |worker 4 : W |worker 5 : G |
+time: 190  worker 1 : E |worker 2 : Z |worker 3 :  |worker 4 : W |worker 5 : G |
+time: 191  worker 1 : E |worker 2 : Z |worker 3 :  |worker 4 : W |worker 5 : G |
+time: 192  worker 1 : E |worker 2 : Z |worker 3 :  |worker 4 : W |worker 5 : G |
+time: 193  worker 1 : E |worker 2 : Z |worker 3 :  |worker 4 : W |worker 5 : G |
+time: 194  worker 1 : E |worker 2 : Z |worker 3 :  |worker 4 : W |worker 5 : G |
+time: 195  worker 1 : E |worker 2 : Z |worker 3 :  |worker 4 : W |worker 5 : G |
+time: 196  worker 1 : E |worker 2 : Z |worker 3 :  |worker 4 : W |worker 5 : G |
+time: 197  worker 1 : E |worker 2 : Z |worker 3 :  |worker 4 : W |worker 5 : G |
+time: 198  worker 1 : E |worker 2 : Z |worker 3 :  |worker 4 : W |worker 5 : G |
+time: 199  worker 1 : E |worker 2 : Z |worker 3 :  |worker 4 : W |worker 5 : G |
+time: 200  worker 1 : E |worker 2 : Z |worker 3 :  |worker 4 : W |worker 5 : G |
+time: 201  worker 1 : E |worker 2 : Z |worker 3 :  |worker 4 : W |worker 5 : G |
+time: 202  worker 1 : E |worker 2 : Z |worker 3 :  |worker 4 : W |worker 5 : G |
+time: 203  worker 1 : E |worker 2 : Z |worker 3 :  |worker 4 : W |worker 5 : G |
+time: 204  worker 1 :  |worker 2 : Z |worker 3 :  |worker 4 : W |worker 5 : G |
+time: 205  worker 1 :  |worker 2 : Z |worker 3 :  |worker 4 : W |worker 5 : G |
+time: 206  worker 1 :  |worker 2 : Z |worker 3 :  |worker 4 : W |worker 5 : G |
+time: 207  worker 1 :  |worker 2 : Z |worker 3 :  |worker 4 : W |worker 5 : G |
+time: 208  worker 1 :  |worker 2 : Z |worker 3 :  |worker 4 : W |worker 5 : G |
+time: 209  worker 1 :  |worker 2 : Z |worker 3 :  |worker 4 : W |worker 5 : G |
+time: 210  worker 1 :  |worker 2 : Z |worker 3 :  |worker 4 : W |worker 5 : I |
+time: 211  worker 1 :  |worker 2 : Z |worker 3 :  |worker 4 : W |worker 5 : I |
+time: 212  worker 1 :  |worker 2 : Z |worker 3 :  |worker 4 : W |worker 5 : I |
+time: 213  worker 1 :  |worker 2 : Z |worker 3 :  |worker 4 : W |worker 5 : I |
+time: 214  worker 1 :  |worker 2 : Z |worker 3 :  |worker 4 : W |worker 5 : I |
+time: 215  worker 1 :  |worker 2 : Z |worker 3 :  |worker 4 : W |worker 5 : I |
+time: 216  worker 1 :  |worker 2 : Z |worker 3 :  |worker 4 : W |worker 5 : I |
+time: 217  worker 1 :  |worker 2 : Z |worker 3 :  |worker 4 : W |worker 5 : I |
+time: 218  worker 1 :  |worker 2 : Z |worker 3 :  |worker 4 : W |worker 5 : I |
+time: 219  worker 1 :  |worker 2 : Z |worker 3 :  |worker 4 : W |worker 5 : I |
+time: 220  worker 1 :  |worker 2 : Z |worker 3 :  |worker 4 : W |worker 5 : I |
+time: 221  worker 1 :  |worker 2 : Z |worker 3 :  |worker 4 : W |worker 5 : I |
+time: 222  worker 1 :  |worker 2 : Z |worker 3 :  |worker 4 : W |worker 5 : I |
+time: 223  worker 1 :  |worker 2 : Z |worker 3 :  |worker 4 : W |worker 5 : I |
+time: 224  worker 1 :  |worker 2 : Z |worker 3 :  |worker 4 : W |worker 5 : I |
+time: 225  worker 1 :  |worker 2 : Z |worker 3 :  |worker 4 : W |worker 5 : I |
+time: 226  worker 1 :  |worker 2 : Z |worker 3 :  |worker 4 : W |worker 5 : I |
+time: 227  worker 1 :  |worker 2 : Z |worker 3 :  |worker 4 : W |worker 5 : I |
+time: 228  worker 1 :  |worker 2 : Z |worker 3 :  |worker 4 : W |worker 5 : I |
+time: 229  worker 1 :  |worker 2 : Z |worker 3 :  |worker 4 : W |worker 5 : I |
+time: 230  worker 1 :  |worker 2 : Z |worker 3 :  |worker 4 : W |worker 5 : I |
+time: 231  worker 1 :  |worker 2 : Z |worker 3 :  |worker 4 : W |worker 5 : I |
+time: 232  worker 1 :  |worker 2 : Z |worker 3 :  |worker 4 : W |worker 5 : I |
+time: 233  worker 1 :  |worker 2 : Z |worker 3 :  |worker 4 : W |worker 5 : I |
+time: 234  worker 1 :  |worker 2 : Z |worker 3 :  |worker 4 : W |worker 5 : I |
+time: 235  worker 1 :  |worker 2 : Z |worker 3 :  |worker 4 : W |worker 5 : I |
+time: 236  worker 1 :  |worker 2 : Z |worker 3 :  |worker 4 : W |worker 5 : I |
+time: 237  worker 1 :  |worker 2 : Z |worker 3 :  |worker 4 : W |worker 5 : I |
+time: 238  worker 1 :  |worker 2 : Z |worker 3 :  |worker 4 : W |worker 5 : I |
+time: 239  worker 1 :  |worker 2 : Z |worker 3 :  |worker 4 : W |worker 5 : I |
+time: 240  worker 1 :  |worker 2 : Z |worker 3 :  |worker 4 : W |worker 5 : I |
+time: 241  worker 1 :  |worker 2 : Z |worker 3 :  |worker 4 :  |worker 5 : I |
+time: 242  worker 1 :  |worker 2 : Z |worker 3 :  |worker 4 :  |worker 5 : I |
+time: 243  worker 1 :  |worker 2 : Z |worker 3 :  |worker 4 :  |worker 5 : I |
+time: 244  worker 1 :  |worker 2 : Z |worker 3 :  |worker 4 :  |worker 5 : I |
+time: 245  worker 1 :  |worker 2 : B |worker 3 :  |worker 4 :  |worker 5 : I |
+time: 246  worker 1 :  |worker 2 : B |worker 3 :  |worker 4 :  |worker 5 : I |
+time: 247  worker 1 :  |worker 2 : B |worker 3 :  |worker 4 :  |worker 5 : I |
+time: 248  worker 1 :  |worker 2 : B |worker 3 :  |worker 4 :  |worker 5 : I |
+time: 249  worker 1 :  |worker 2 : B |worker 3 :  |worker 4 :  |worker 5 : I |
+time: 250  worker 1 :  |worker 2 : B |worker 3 :  |worker 4 :  |worker 5 : I |
+time: 251  worker 1 :  |worker 2 : B |worker 3 :  |worker 4 :  |worker 5 : I |
+time: 252  worker 1 :  |worker 2 : B |worker 3 :  |worker 4 :  |worker 5 : I |
+time: 253  worker 1 :  |worker 2 : B |worker 3 :  |worker 4 :  |worker 5 : I |
+time: 254  worker 1 :  |worker 2 : B |worker 3 :  |worker 4 :  |worker 5 : I |
+time: 255  worker 1 :  |worker 2 : B |worker 3 :  |worker 4 :  |worker 5 : I |
+time: 256  worker 1 :  |worker 2 : B |worker 3 :  |worker 4 :  |worker 5 : I |
+time: 257  worker 1 :  |worker 2 : B |worker 3 :  |worker 4 :  |worker 5 : I |
+time: 258  worker 1 :  |worker 2 : B |worker 3 :  |worker 4 :  |worker 5 : I |
+time: 259  worker 1 :  |worker 2 : B |worker 3 :  |worker 4 :  |worker 5 : I |
+time: 260  worker 1 :  |worker 2 : B |worker 3 :  |worker 4 :  |worker 5 : I |
+time: 261  worker 1 :  |worker 2 : B |worker 3 :  |worker 4 :  |worker 5 : I |
+time: 262  worker 1 :  |worker 2 : B |worker 3 :  |worker 4 :  |worker 5 : I |
+time: 263  worker 1 :  |worker 2 : B |worker 3 :  |worker 4 :  |worker 5 : I |
+time: 264  worker 1 :  |worker 2 : B |worker 3 :  |worker 4 :  |worker 5 : I |
+time: 265  worker 1 :  |worker 2 : B |worker 3 :  |worker 4 :  |worker 5 : I |
+time: 266  worker 1 :  |worker 2 : B |worker 3 :  |worker 4 :  |worker 5 : I |
+time: 267  worker 1 :  |worker 2 : B |worker 3 :  |worker 4 :  |worker 5 : I |
+time: 268  worker 1 :  |worker 2 : B |worker 3 :  |worker 4 :  |worker 5 : I |
+time: 269  worker 1 :  |worker 2 : B |worker 3 :  |worker 4 :  |worker 5 : I |
+time: 270  worker 1 :  |worker 2 : B |worker 3 :  |worker 4 :  |worker 5 : I |
+time: 271  worker 1 :  |worker 2 : B |worker 3 :  |worker 4 :  |worker 5 : I |
+time: 272  worker 1 :  |worker 2 : B |worker 3 :  |worker 4 :  |worker 5 : I |
+time: 273  worker 1 :  |worker 2 : B |worker 3 :  |worker 4 :  |worker 5 : I |
+time: 274  worker 1 :  |worker 2 : B |worker 3 :  |worker 4 :  |worker 5 : I |
+time: 275  worker 1 :  |worker 2 : B |worker 3 :  |worker 4 :  |worker 5 : I |
+time: 276  worker 1 :  |worker 2 : B |worker 3 :  |worker 4 :  |worker 5 : I |
+time: 277  worker 1 :  |worker 2 : B |worker 3 :  |worker 4 :  |worker 5 : I |
+time: 278  worker 1 :  |worker 2 : B |worker 3 :  |worker 4 :  |worker 5 : I |
+time: 279  worker 1 :  |worker 2 : B |worker 3 :  |worker 4 :  |worker 5 : C |
+time: 280  worker 1 :  |worker 2 : B |worker 3 :  |worker 4 :  |worker 5 : C |
+time: 281  worker 1 :  |worker 2 : B |worker 3 :  |worker 4 :  |worker 5 : C |
+time: 282  worker 1 :  |worker 2 : B |worker 3 :  |worker 4 :  |worker 5 : C |
+time: 283  worker 1 :  |worker 2 : B |worker 3 :  |worker 4 :  |worker 5 : C |
+time: 284  worker 1 :  |worker 2 : B |worker 3 :  |worker 4 :  |worker 5 : C |
+time: 285  worker 1 :  |worker 2 : B |worker 3 :  |worker 4 :  |worker 5 : C |
+time: 286  worker 1 :  |worker 2 : B |worker 3 :  |worker 4 :  |worker 5 : C |
+time: 287  worker 1 :  |worker 2 : B |worker 3 :  |worker 4 :  |worker 5 : C |
+time: 288  worker 1 :  |worker 2 : B |worker 3 :  |worker 4 :  |worker 5 : C |
+time: 289  worker 1 :  |worker 2 : B |worker 3 :  |worker 4 :  |worker 5 : C |
+time: 290  worker 1 :  |worker 2 : B |worker 3 :  |worker 4 :  |worker 5 : C |
+time: 291  worker 1 :  |worker 2 : B |worker 3 :  |worker 4 :  |worker 5 : C |
+time: 292  worker 1 :  |worker 2 : B |worker 3 :  |worker 4 :  |worker 5 : C |
+time: 293  worker 1 :  |worker 2 : B |worker 3 :  |worker 4 :  |worker 5 : C |
+time: 294  worker 1 :  |worker 2 : B |worker 3 :  |worker 4 :  |worker 5 : C |
+time: 295  worker 1 :  |worker 2 : B |worker 3 :  |worker 4 :  |worker 5 : C |
+time: 296  worker 1 :  |worker 2 : B |worker 3 :  |worker 4 :  |worker 5 : C |
+time: 297  worker 1 :  |worker 2 : B |worker 3 :  |worker 4 :  |worker 5 : C |
+time: 298  worker 1 :  |worker 2 : B |worker 3 :  |worker 4 :  |worker 5 : C |
+time: 299  worker 1 :  |worker 2 : B |worker 3 :  |worker 4 :  |worker 5 : C |
+time: 300  worker 1 :  |worker 2 : B |worker 3 :  |worker 4 :  |worker 5 : C |
+time: 301  worker 1 :  |worker 2 : B |worker 3 :  |worker 4 :  |worker 5 : C |
+time: 302  worker 1 :  |worker 2 : B |worker 3 :  |worker 4 :  |worker 5 : C |
+time: 303  worker 1 :  |worker 2 : B |worker 3 :  |worker 4 :  |worker 5 : C |
+time: 304  worker 1 :  |worker 2 : B |worker 3 :  |worker 4 :  |worker 5 : C |
+time: 305  worker 1 :  |worker 2 : B |worker 3 :  |worker 4 :  |worker 5 : C |
+time: 306  worker 1 :  |worker 2 : B |worker 3 :  |worker 4 :  |worker 5 : C |
+time: 307  worker 1 :  |worker 2 : L |worker 3 :  |worker 4 :  |worker 5 : C |
+time: 308  worker 1 :  |worker 2 : L |worker 3 :  |worker 4 :  |worker 5 : C |
+time: 309  worker 1 :  |worker 2 : L |worker 3 :  |worker 4 :  |worker 5 : C |
+time: 310  worker 1 :  |worker 2 : L |worker 3 :  |worker 4 :  |worker 5 : C |
+time: 311  worker 1 :  |worker 2 : L |worker 3 :  |worker 4 :  |worker 5 : C |
+time: 312  worker 1 :  |worker 2 : L |worker 3 :  |worker 4 :  |worker 5 : C |
+time: 313  worker 1 :  |worker 2 : L |worker 3 :  |worker 4 :  |worker 5 : C |
+time: 314  worker 1 :  |worker 2 : L |worker 3 :  |worker 4 :  |worker 5 : C |
+time: 315  worker 1 :  |worker 2 : L |worker 3 :  |worker 4 :  |worker 5 : C |
+time: 316  worker 1 :  |worker 2 : L |worker 3 :  |worker 4 :  |worker 5 : C |
+time: 317  worker 1 :  |worker 2 : L |worker 3 :  |worker 4 :  |worker 5 : C |
+time: 318  worker 1 :  |worker 2 : L |worker 3 :  |worker 4 :  |worker 5 : C |
+time: 319  worker 1 :  |worker 2 : L |worker 3 :  |worker 4 :  |worker 5 : C |
+time: 320  worker 1 :  |worker 2 : L |worker 3 :  |worker 4 :  |worker 5 : C |
+time: 321  worker 1 :  |worker 2 : L |worker 3 :  |worker 4 :  |worker 5 : C |
+time: 322  worker 1 :  |worker 2 : L |worker 3 :  |worker 4 :  |worker 5 : C |
+time: 323  worker 1 :  |worker 2 : L |worker 3 :  |worker 4 :  |worker 5 : C |
+time: 324  worker 1 :  |worker 2 : L |worker 3 :  |worker 4 :  |worker 5 : C |
+time: 325  worker 1 :  |worker 2 : L |worker 3 :  |worker 4 :  |worker 5 : C |
+time: 326  worker 1 :  |worker 2 : L |worker 3 :  |worker 4 :  |worker 5 : C |
+time: 327  worker 1 :  |worker 2 : L |worker 3 :  |worker 4 :  |worker 5 : C |
+time: 328  worker 1 :  |worker 2 : L |worker 3 :  |worker 4 :  |worker 5 : C |
+time: 329  worker 1 :  |worker 2 : L |worker 3 :  |worker 4 :  |worker 5 : C |
+time: 330  worker 1 :  |worker 2 : L |worker 3 :  |worker 4 :  |worker 5 : C |
+time: 331  worker 1 :  |worker 2 : L |worker 3 :  |worker 4 :  |worker 5 : C |
+time: 332  worker 1 :  |worker 2 : L |worker 3 :  |worker 4 :  |worker 5 : C |
+time: 333  worker 1 :  |worker 2 : L |worker 3 :  |worker 4 :  |worker 5 : C |
+time: 334  worker 1 :  |worker 2 : L |worker 3 :  |worker 4 :  |worker 5 : C |
+time: 335  worker 1 :  |worker 2 : L |worker 3 :  |worker 4 :  |worker 5 : C |
+time: 336  worker 1 :  |worker 2 : L |worker 3 :  |worker 4 :  |worker 5 : C |
+time: 337  worker 1 :  |worker 2 : L |worker 3 :  |worker 4 :  |worker 5 : C |
+time: 338  worker 1 :  |worker 2 : L |worker 3 :  |worker 4 :  |worker 5 : C |
+time: 339  worker 1 :  |worker 2 : L |worker 3 :  |worker 4 :  |worker 5 : C |
+time: 340  worker 1 :  |worker 2 : L |worker 3 :  |worker 4 :  |worker 5 : C |
+time: 341  worker 1 :  |worker 2 : L |worker 3 :  |worker 4 :  |worker 5 : C |
+time: 342  worker 1 :  |worker 2 : L |worker 3 :  |worker 4 :  |worker 5 :  |
+time: 343  worker 1 :  |worker 2 : L |worker 3 :  |worker 4 :  |worker 5 :  |
+time: 344  worker 1 :  |worker 2 : L |worker 3 :  |worker 4 :  |worker 5 :  |
+time: 345  worker 1 :  |worker 2 : L |worker 3 :  |worker 4 :  |worker 5 :  |
+time: 346  worker 1 :  |worker 2 : L |worker 3 :  |worker 4 :  |worker 5 :  |
+time: 347  worker 1 :  |worker 2 : L |worker 3 :  |worker 4 :  |worker 5 :  |
+time: 348  worker 1 :  |worker 2 : L |worker 3 :  |worker 4 :  |worker 5 :  |
+time: 349  worker 1 :  |worker 2 : L |worker 3 :  |worker 4 :  |worker 5 :  |
+time: 350  worker 1 :  |worker 2 : L |worker 3 :  |worker 4 :  |worker 5 :  |
+time: 351  worker 1 :  |worker 2 : L |worker 3 :  |worker 4 :  |worker 5 :  |
+time: 352  worker 1 :  |worker 2 : L |worker 3 :  |worker 4 :  |worker 5 :  |
+time: 353  worker 1 :  |worker 2 : L |worker 3 :  |worker 4 :  |worker 5 :  |
+time: 354  worker 1 :  |worker 2 : L |worker 3 :  |worker 4 :  |worker 5 :  |
+time: 355  worker 1 :  |worker 2 : L |worker 3 :  |worker 4 :  |worker 5 :  |
+time: 356  worker 1 :  |worker 2 : L |worker 3 :  |worker 4 :  |worker 5 :  |
+time: 357  worker 1 :  |worker 2 : L |worker 3 :  |worker 4 :  |worker 5 :  |
+time: 358  worker 1 :  |worker 2 : L |worker 3 :  |worker 4 :  |worker 5 :  |
+time: 359  worker 1 :  |worker 2 : L |worker 3 :  |worker 4 :  |worker 5 :  |
+time: 360  worker 1 :  |worker 2 : L |worker 3 :  |worker 4 :  |worker 5 :  |
+time: 361  worker 1 :  |worker 2 : L |worker 3 :  |worker 4 :  |worker 5 :  |
+time: 362  worker 1 :  |worker 2 : L |worker 3 :  |worker 4 :  |worker 5 :  |
+time: 363  worker 1 :  |worker 2 : L |worker 3 :  |worker 4 :  |worker 5 :  |
+time: 364  worker 1 :  |worker 2 : L |worker 3 :  |worker 4 :  |worker 5 :  |
+time: 365  worker 1 :  |worker 2 : L |worker 3 :  |worker 4 :  |worker 5 :  |
+time: 366  worker 1 :  |worker 2 : L |worker 3 :  |worker 4 :  |worker 5 :  |
+time: 367  worker 1 :  |worker 2 : L |worker 3 :  |worker 4 :  |worker 5 :  |
+time: 368  worker 1 :  |worker 2 : L |worker 3 :  |worker 4 :  |worker 5 :  |
+time: 369  worker 1 :  |worker 2 : L |worker 3 :  |worker 4 :  |worker 5 :  |
+time: 370  worker 1 :  |worker 2 : L |worker 3 :  |worker 4 :  |worker 5 :  |
+time: 371  worker 1 :  |worker 2 : L |worker 3 :  |worker 4 :  |worker 5 :  |
+time: 372  worker 1 :  |worker 2 : L |worker 3 :  |worker 4 :  |worker 5 :  |
+time: 373  worker 1 :  |worker 2 : L |worker 3 :  |worker 4 :  |worker 5 :  |
+time: 374  worker 1 :  |worker 2 : L |worker 3 :  |worker 4 :  |worker 5 :  |
+time: 375  worker 1 :  |worker 2 : L |worker 3 :  |worker 4 :  |worker 5 :  |
+time: 376  worker 1 :  |worker 2 : L |worker 3 :  |worker 4 :  |worker 5 :  |
+time: 377  worker 1 :  |worker 2 : L |worker 3 :  |worker 4 :  |worker 5 :  |
+time: 378  worker 1 :  |worker 2 : L |worker 3 :  |worker 4 :  |worker 5 :  |
+time: 379  worker 1 :  |worker 2 : O |worker 3 : U |worker 4 :  |worker 5 :  |
+time: 380  worker 1 :  |worker 2 : O |worker 3 : U |worker 4 :  |worker 5 :  |
+time: 381  worker 1 :  |worker 2 : O |worker 3 : U |worker 4 :  |worker 5 :  |
+time: 382  worker 1 :  |worker 2 : O |worker 3 : U |worker 4 :  |worker 5 :  |
+time: 383  worker 1 :  |worker 2 : O |worker 3 : U |worker 4 :  |worker 5 :  |
+time: 384  worker 1 :  |worker 2 : O |worker 3 : U |worker 4 :  |worker 5 :  |
+time: 385  worker 1 :  |worker 2 : O |worker 3 : U |worker 4 :  |worker 5 :  |
+time: 386  worker 1 :  |worker 2 : O |worker 3 : U |worker 4 :  |worker 5 :  |
+time: 387  worker 1 :  |worker 2 : O |worker 3 : U |worker 4 :  |worker 5 :  |
+time: 388  worker 1 :  |worker 2 : O |worker 3 : U |worker 4 :  |worker 5 :  |
+time: 389  worker 1 :  |worker 2 : O |worker 3 : U |worker 4 :  |worker 5 :  |
+time: 390  worker 1 :  |worker 2 : O |worker 3 : U |worker 4 :  |worker 5 :  |
+time: 391  worker 1 :  |worker 2 : O |worker 3 : U |worker 4 :  |worker 5 :  |
+time: 392  worker 1 :  |worker 2 : O |worker 3 : U |worker 4 :  |worker 5 :  |
+time: 393  worker 1 :  |worker 2 : O |worker 3 : U |worker 4 :  |worker 5 :  |
+time: 394  worker 1 :  |worker 2 : O |worker 3 : U |worker 4 :  |worker 5 :  |
+time: 395  worker 1 :  |worker 2 : O |worker 3 : U |worker 4 :  |worker 5 :  |
+time: 396  worker 1 :  |worker 2 : O |worker 3 : U |worker 4 :  |worker 5 :  |
+time: 397  worker 1 :  |worker 2 : O |worker 3 : U |worker 4 :  |worker 5 :  |
+time: 398  worker 1 :  |worker 2 : O |worker 3 : U |worker 4 :  |worker 5 :  |
+time: 399  worker 1 :  |worker 2 : O |worker 3 : U |worker 4 :  |worker 5 :  |
+time: 400  worker 1 :  |worker 2 : O |worker 3 : U |worker 4 :  |worker 5 :  |
+time: 401  worker 1 :  |worker 2 : O |worker 3 : U |worker 4 :  |worker 5 :  |
+time: 402  worker 1 :  |worker 2 : O |worker 3 : U |worker 4 :  |worker 5 :  |
+time: 403  worker 1 :  |worker 2 : O |worker 3 : U |worker 4 :  |worker 5 :  |
+time: 404  worker 1 :  |worker 2 : O |worker 3 : U |worker 4 :  |worker 5 :  |
+time: 405  worker 1 :  |worker 2 : O |worker 3 : U |worker 4 :  |worker 5 :  |
+time: 406  worker 1 :  |worker 2 : O |worker 3 : U |worker 4 :  |worker 5 :  |
+time: 407  worker 1 :  |worker 2 : O |worker 3 : U |worker 4 :  |worker 5 :  |
+time: 408  worker 1 :  |worker 2 : O |worker 3 : U |worker 4 :  |worker 5 :  |
+time: 409  worker 1 :  |worker 2 : O |worker 3 : U |worker 4 :  |worker 5 :  |
+time: 410  worker 1 :  |worker 2 : O |worker 3 : U |worker 4 :  |worker 5 :  |
+time: 411  worker 1 :  |worker 2 : O |worker 3 : U |worker 4 :  |worker 5 :  |
+time: 412  worker 1 :  |worker 2 : O |worker 3 : U |worker 4 :  |worker 5 :  |
+time: 413  worker 1 :  |worker 2 : O |worker 3 : U |worker 4 :  |worker 5 :  |
+time: 414  worker 1 :  |worker 2 : O |worker 3 : U |worker 4 :  |worker 5 :  |
+time: 415  worker 1 :  |worker 2 : O |worker 3 : U |worker 4 :  |worker 5 :  |
+time: 416  worker 1 :  |worker 2 : O |worker 3 : U |worker 4 :  |worker 5 :  |
+time: 417  worker 1 :  |worker 2 : O |worker 3 : U |worker 4 :  |worker 5 :  |
+time: 418  worker 1 :  |worker 2 : O |worker 3 : U |worker 4 :  |worker 5 :  |
+time: 419  worker 1 :  |worker 2 : O |worker 3 : U |worker 4 :  |worker 5 :  |
+time: 420  worker 1 :  |worker 2 : O |worker 3 : U |worker 4 :  |worker 5 :  |
+time: 421  worker 1 :  |worker 2 : O |worker 3 : U |worker 4 :  |worker 5 :  |
+time: 422  worker 1 :  |worker 2 : O |worker 3 : U |worker 4 :  |worker 5 :  |
+time: 423  worker 1 :  |worker 2 : O |worker 3 : U |worker 4 :  |worker 5 :  |
+time: 424  worker 1 :  |worker 2 : O |worker 3 : U |worker 4 :  |worker 5 :  |
+time: 425  worker 1 :  |worker 2 : O |worker 3 : U |worker 4 :  |worker 5 :  |
+time: 426  worker 1 :  |worker 2 : O |worker 3 : U |worker 4 :  |worker 5 :  |
+time: 427  worker 1 :  |worker 2 : O |worker 3 : U |worker 4 :  |worker 5 :  |
+time: 428  worker 1 :  |worker 2 : O |worker 3 : U |worker 4 :  |worker 5 :  |
+time: 429  worker 1 :  |worker 2 : O |worker 3 : U |worker 4 :  |worker 5 :  |
+time: 430  worker 1 :  |worker 2 : O |worker 3 : U |worker 4 :  |worker 5 :  |
+time: 431  worker 1 :  |worker 2 : O |worker 3 : U |worker 4 :  |worker 5 :  |
+time: 432  worker 1 :  |worker 2 : O |worker 3 : U |worker 4 :  |worker 5 :  |
+time: 433  worker 1 :  |worker 2 : O |worker 3 : U |worker 4 :  |worker 5 :  |
+time: 434  worker 1 :  |worker 2 : O |worker 3 : U |worker 4 :  |worker 5 :  |
+time: 435  worker 1 :  |worker 2 : O |worker 3 : U |worker 4 :  |worker 5 :  |
+time: 436  worker 1 :  |worker 2 : O |worker 3 : U |worker 4 :  |worker 5 :  |
+time: 437  worker 1 :  |worker 2 : O |worker 3 : U |worker 4 :  |worker 5 :  |
+time: 438  worker 1 :  |worker 2 : O |worker 3 : U |worker 4 :  |worker 5 :  |
+time: 439  worker 1 :  |worker 2 : O |worker 3 : U |worker 4 :  |worker 5 :  |
+time: 440  worker 1 :  |worker 2 : O |worker 3 : U |worker 4 :  |worker 5 :  |
+time: 441  worker 1 :  |worker 2 : O |worker 3 : U |worker 4 :  |worker 5 :  |
+time: 442  worker 1 :  |worker 2 : O |worker 3 : U |worker 4 :  |worker 5 :  |
+time: 443  worker 1 :  |worker 2 : O |worker 3 : U |worker 4 :  |worker 5 :  |
+time: 444  worker 1 :  |worker 2 : O |worker 3 : U |worker 4 :  |worker 5 :  |
+time: 445  worker 1 :  |worker 2 : O |worker 3 : U |worker 4 :  |worker 5 :  |
+time: 446  worker 1 :  |worker 2 : O |worker 3 : U |worker 4 :  |worker 5 :  |
+time: 447  worker 1 :  |worker 2 : O |worker 3 : U |worker 4 :  |worker 5 :  |
+time: 448  worker 1 :  |worker 2 : O |worker 3 : U |worker 4 :  |worker 5 :  |
+time: 449  worker 1 :  |worker 2 : O |worker 3 : U |worker 4 :  |worker 5 :  |
+time: 450  worker 1 :  |worker 2 : O |worker 3 : U |worker 4 :  |worker 5 :  |
+time: 451  worker 1 :  |worker 2 : O |worker 3 : U |worker 4 :  |worker 5 :  |
+time: 452  worker 1 :  |worker 2 : O |worker 3 : U |worker 4 :  |worker 5 :  |
+time: 453  worker 1 :  |worker 2 : O |worker 3 : U |worker 4 :  |worker 5 :  |
+time: 454  worker 1 :  |worker 2 : T |worker 3 : U |worker 4 :  |worker 5 :  |
+time: 455  worker 1 :  |worker 2 : T |worker 3 : U |worker 4 :  |worker 5 :  |
+time: 456  worker 1 :  |worker 2 : T |worker 3 : U |worker 4 :  |worker 5 :  |
+time: 457  worker 1 :  |worker 2 : T |worker 3 : U |worker 4 :  |worker 5 :  |
+time: 458  worker 1 :  |worker 2 : T |worker 3 : U |worker 4 :  |worker 5 :  |
+time: 459  worker 1 :  |worker 2 : T |worker 3 : U |worker 4 :  |worker 5 :  |
+time: 460  worker 1 :  |worker 2 : T |worker 3 : A |worker 4 :  |worker 5 :  |
+time: 461  worker 1 :  |worker 2 : T |worker 3 : A |worker 4 :  |worker 5 :  |
+time: 462  worker 1 :  |worker 2 : T |worker 3 : A |worker 4 :  |worker 5 :  |
+time: 463  worker 1 :  |worker 2 : T |worker 3 : A |worker 4 :  |worker 5 :  |
+time: 464  worker 1 :  |worker 2 : T |worker 3 : A |worker 4 :  |worker 5 :  |
+time: 465  worker 1 :  |worker 2 : T |worker 3 : A |worker 4 :  |worker 5 :  |
+time: 466  worker 1 :  |worker 2 : T |worker 3 : A |worker 4 :  |worker 5 :  |
+time: 467  worker 1 :  |worker 2 : T |worker 3 : A |worker 4 :  |worker 5 :  |
+time: 468  worker 1 :  |worker 2 : T |worker 3 : A |worker 4 :  |worker 5 :  |
+time: 469  worker 1 :  |worker 2 : T |worker 3 : A |worker 4 :  |worker 5 :  |
+time: 470  worker 1 :  |worker 2 : T |worker 3 : A |worker 4 :  |worker 5 :  |
+time: 471  worker 1 :  |worker 2 : T |worker 3 : A |worker 4 :  |worker 5 :  |
+time: 472  worker 1 :  |worker 2 : T |worker 3 : A |worker 4 :  |worker 5 :  |
+time: 473  worker 1 :  |worker 2 : T |worker 3 : A |worker 4 :  |worker 5 :  |
+time: 474  worker 1 :  |worker 2 : T |worker 3 : A |worker 4 :  |worker 5 :  |
+time: 475  worker 1 :  |worker 2 : T |worker 3 : A |worker 4 :  |worker 5 :  |
+time: 476  worker 1 :  |worker 2 : T |worker 3 : A |worker 4 :  |worker 5 :  |
+time: 477  worker 1 :  |worker 2 : T |worker 3 : A |worker 4 :  |worker 5 :  |
+time: 478  worker 1 :  |worker 2 : T |worker 3 : A |worker 4 :  |worker 5 :  |
+time: 479  worker 1 :  |worker 2 : T |worker 3 : A |worker 4 :  |worker 5 :  |
+time: 480  worker 1 :  |worker 2 : T |worker 3 : A |worker 4 :  |worker 5 :  |
+time: 481  worker 1 :  |worker 2 : T |worker 3 : A |worker 4 :  |worker 5 :  |
+time: 482  worker 1 :  |worker 2 : T |worker 3 : A |worker 4 :  |worker 5 :  |
+time: 483  worker 1 :  |worker 2 : T |worker 3 : A |worker 4 :  |worker 5 :  |
+time: 484  worker 1 :  |worker 2 : T |worker 3 : A |worker 4 :  |worker 5 :  |
+time: 485  worker 1 :  |worker 2 : T |worker 3 : A |worker 4 :  |worker 5 :  |
+time: 486  worker 1 :  |worker 2 : T |worker 3 : A |worker 4 :  |worker 5 :  |
+time: 487  worker 1 :  |worker 2 : T |worker 3 : A |worker 4 :  |worker 5 :  |
+time: 488  worker 1 :  |worker 2 : T |worker 3 : A |worker 4 :  |worker 5 :  |
+time: 489  worker 1 :  |worker 2 : T |worker 3 : A |worker 4 :  |worker 5 :  |
+time: 490  worker 1 :  |worker 2 : T |worker 3 : A |worker 4 :  |worker 5 :  |
+time: 491  worker 1 :  |worker 2 : T |worker 3 : A |worker 4 :  |worker 5 :  |
+time: 492  worker 1 :  |worker 2 : T |worker 3 : A |worker 4 :  |worker 5 :  |
+time: 493  worker 1 :  |worker 2 : T |worker 3 : A |worker 4 :  |worker 5 :  |
+time: 494  worker 1 :  |worker 2 : T |worker 3 : A |worker 4 :  |worker 5 :  |
+time: 495  worker 1 :  |worker 2 : T |worker 3 : A |worker 4 :  |worker 5 :  |
+time: 496  worker 1 :  |worker 2 : T |worker 3 : A |worker 4 :  |worker 5 :  |
+time: 497  worker 1 :  |worker 2 : T |worker 3 : A |worker 4 :  |worker 5 :  |
+time: 498  worker 1 :  |worker 2 : T |worker 3 : A |worker 4 :  |worker 5 :  |
+time: 499  worker 1 :  |worker 2 : T |worker 3 : A |worker 4 :  |worker 5 :  |
+time: 500  worker 1 :  |worker 2 : T |worker 3 : A |worker 4 :  |worker 5 :  |
+time: 501  worker 1 :  |worker 2 : T |worker 3 : A |worker 4 :  |worker 5 :  |
+time: 502  worker 1 :  |worker 2 : T |worker 3 : A |worker 4 :  |worker 5 :  |
+time: 503  worker 1 :  |worker 2 : T |worker 3 : A |worker 4 :  |worker 5 :  |
+time: 504  worker 1 :  |worker 2 : T |worker 3 : A |worker 4 :  |worker 5 :  |
+time: 505  worker 1 :  |worker 2 : T |worker 3 : A |worker 4 :  |worker 5 :  |
+time: 506  worker 1 :  |worker 2 : T |worker 3 : A |worker 4 :  |worker 5 :  |
+time: 507  worker 1 :  |worker 2 : T |worker 3 : A |worker 4 :  |worker 5 :  |
+time: 508  worker 1 :  |worker 2 : T |worker 3 : A |worker 4 :  |worker 5 :  |
+time: 509  worker 1 :  |worker 2 : T |worker 3 : A |worker 4 :  |worker 5 :  |
+time: 510  worker 1 :  |worker 2 : T |worker 3 : A |worker 4 :  |worker 5 :  |
+time: 511  worker 1 :  |worker 2 : T |worker 3 : A |worker 4 :  |worker 5 :  |
+time: 512  worker 1 :  |worker 2 : T |worker 3 : A |worker 4 :  |worker 5 :  |
+time: 513  worker 1 :  |worker 2 : T |worker 3 : A |worker 4 :  |worker 5 :  |
+time: 514  worker 1 :  |worker 2 : T |worker 3 : A |worker 4 :  |worker 5 :  |
+time: 515  worker 1 :  |worker 2 : T |worker 3 : A |worker 4 :  |worker 5 :  |
+time: 516  worker 1 :  |worker 2 : T |worker 3 : A |worker 4 :  |worker 5 :  |
+time: 517  worker 1 :  |worker 2 : T |worker 3 : A |worker 4 :  |worker 5 :  |
+time: 518  worker 1 :  |worker 2 : T |worker 3 : A |worker 4 :  |worker 5 :  |
+time: 519  worker 1 :  |worker 2 : T |worker 3 : A |worker 4 :  |worker 5 :  |
+time: 520  worker 1 :  |worker 2 : T |worker 3 : A |worker 4 :  |worker 5 :  |
+time: 521  worker 1 :  |worker 2 : T |worker 3 :  |worker 4 :  |worker 5 :  |
+time: 522  worker 1 :  |worker 2 : T |worker 3 :  |worker 4 :  |worker 5 :  |
+time: 523  worker 1 :  |worker 2 : T |worker 3 :  |worker 4 :  |worker 5 :  |
+time: 524  worker 1 :  |worker 2 : T |worker 3 :  |worker 4 :  |worker 5 :  |
+time: 525  worker 1 :  |worker 2 : T |worker 3 :  |worker 4 :  |worker 5 :  |
+time: 526  worker 1 :  |worker 2 : T |worker 3 :  |worker 4 :  |worker 5 :  |
+time: 527  worker 1 :  |worker 2 : T |worker 3 :  |worker 4 :  |worker 5 :  |
+time: 528  worker 1 :  |worker 2 : T |worker 3 :  |worker 4 :  |worker 5 :  |
+time: 529  worker 1 :  |worker 2 : T |worker 3 :  |worker 4 :  |worker 5 :  |
+time: 530  worker 1 :  |worker 2 : T |worker 3 :  |worker 4 :  |worker 5 :  |
+time: 531  worker 1 :  |worker 2 : T |worker 3 :  |worker 4 :  |worker 5 :  |
+time: 532  worker 1 :  |worker 2 : T |worker 3 :  |worker 4 :  |worker 5 :  |
+time: 533  worker 1 :  |worker 2 : T |worker 3 :  |worker 4 :  |worker 5 :  |
+time: 534  worker 1 :  |worker 2 : D |worker 3 : J |worker 4 :  |worker 5 :  |
+time: 535  worker 1 :  |worker 2 : D |worker 3 : J |worker 4 :  |worker 5 :  |
+time: 536  worker 1 :  |worker 2 : D |worker 3 : J |worker 4 :  |worker 5 :  |
+time: 537  worker 1 :  |worker 2 : D |worker 3 : J |worker 4 :  |worker 5 :  |
+time: 538  worker 1 :  |worker 2 : D |worker 3 : J |worker 4 :  |worker 5 :  |
+time: 539  worker 1 :  |worker 2 : D |worker 3 : J |worker 4 :  |worker 5 :  |
+time: 540  worker 1 :  |worker 2 : D |worker 3 : J |worker 4 :  |worker 5 :  |
+time: 541  worker 1 :  |worker 2 : D |worker 3 : J |worker 4 :  |worker 5 :  |
+time: 542  worker 1 :  |worker 2 : D |worker 3 : J |worker 4 :  |worker 5 :  |
+time: 543  worker 1 :  |worker 2 : D |worker 3 : J |worker 4 :  |worker 5 :  |
+time: 544  worker 1 :  |worker 2 : D |worker 3 : J |worker 4 :  |worker 5 :  |
+time: 545  worker 1 :  |worker 2 : D |worker 3 : J |worker 4 :  |worker 5 :  |
+time: 546  worker 1 :  |worker 2 : D |worker 3 : J |worker 4 :  |worker 5 :  |
+time: 547  worker 1 :  |worker 2 : D |worker 3 : J |worker 4 :  |worker 5 :  |
+time: 548  worker 1 :  |worker 2 : D |worker 3 : J |worker 4 :  |worker 5 :  |
+time: 549  worker 1 :  |worker 2 : D |worker 3 : J |worker 4 :  |worker 5 :  |
+time: 550  worker 1 :  |worker 2 : D |worker 3 : J |worker 4 :  |worker 5 :  |
+time: 551  worker 1 :  |worker 2 : D |worker 3 : J |worker 4 :  |worker 5 :  |
+time: 552  worker 1 :  |worker 2 : D |worker 3 : J |worker 4 :  |worker 5 :  |
+time: 553  worker 1 :  |worker 2 : D |worker 3 : J |worker 4 :  |worker 5 :  |
+time: 554  worker 1 :  |worker 2 : D |worker 3 : J |worker 4 :  |worker 5 :  |
+time: 555  worker 1 :  |worker 2 : D |worker 3 : J |worker 4 :  |worker 5 :  |
+time: 556  worker 1 :  |worker 2 : D |worker 3 : J |worker 4 :  |worker 5 :  |
+time: 557  worker 1 :  |worker 2 : D |worker 3 : J |worker 4 :  |worker 5 :  |
+time: 558  worker 1 :  |worker 2 : D |worker 3 : J |worker 4 :  |worker 5 :  |
+time: 559  worker 1 :  |worker 2 : D |worker 3 : J |worker 4 :  |worker 5 :  |
+time: 560  worker 1 :  |worker 2 : D |worker 3 : J |worker 4 :  |worker 5 :  |
+time: 561  worker 1 :  |worker 2 : D |worker 3 : J |worker 4 :  |worker 5 :  |
+time: 562  worker 1 :  |worker 2 : D |worker 3 : J |worker 4 :  |worker 5 :  |
+time: 563  worker 1 :  |worker 2 : D |worker 3 : J |worker 4 :  |worker 5 :  |
+time: 564  worker 1 :  |worker 2 : D |worker 3 : J |worker 4 :  |worker 5 :  |
+time: 565  worker 1 :  |worker 2 : D |worker 3 : J |worker 4 :  |worker 5 :  |
+time: 566  worker 1 :  |worker 2 : D |worker 3 : J |worker 4 :  |worker 5 :  |
+time: 567  worker 1 :  |worker 2 : D |worker 3 : J |worker 4 :  |worker 5 :  |
+time: 568  worker 1 :  |worker 2 : D |worker 3 : J |worker 4 :  |worker 5 :  |
+time: 569  worker 1 :  |worker 2 : D |worker 3 : J |worker 4 :  |worker 5 :  |
+time: 570  worker 1 :  |worker 2 : D |worker 3 : J |worker 4 :  |worker 5 :  |
+time: 571  worker 1 :  |worker 2 : D |worker 3 : J |worker 4 :  |worker 5 :  |
+time: 572  worker 1 :  |worker 2 : D |worker 3 : J |worker 4 :  |worker 5 :  |
+time: 573  worker 1 :  |worker 2 : D |worker 3 : J |worker 4 :  |worker 5 :  |
+time: 574  worker 1 :  |worker 2 : D |worker 3 : J |worker 4 :  |worker 5 :  |
+time: 575  worker 1 :  |worker 2 : D |worker 3 : J |worker 4 :  |worker 5 :  |
+time: 576  worker 1 :  |worker 2 : D |worker 3 : J |worker 4 :  |worker 5 :  |
+time: 577  worker 1 :  |worker 2 : D |worker 3 : J |worker 4 :  |worker 5 :  |
+time: 578  worker 1 :  |worker 2 : D |worker 3 : J |worker 4 :  |worker 5 :  |
+time: 579  worker 1 :  |worker 2 : D |worker 3 : J |worker 4 :  |worker 5 :  |
+time: 580  worker 1 :  |worker 2 : D |worker 3 : J |worker 4 :  |worker 5 :  |
+time: 581  worker 1 :  |worker 2 : D |worker 3 : J |worker 4 :  |worker 5 :  |
+time: 582  worker 1 :  |worker 2 : D |worker 3 : J |worker 4 :  |worker 5 :  |
+time: 583  worker 1 :  |worker 2 : D |worker 3 : J |worker 4 :  |worker 5 :  |
+time: 584  worker 1 :  |worker 2 : D |worker 3 : J |worker 4 :  |worker 5 :  |
+time: 585  worker 1 :  |worker 2 : D |worker 3 : J |worker 4 :  |worker 5 :  |
+time: 586  worker 1 :  |worker 2 : D |worker 3 : J |worker 4 :  |worker 5 :  |
+time: 587  worker 1 :  |worker 2 : D |worker 3 : J |worker 4 :  |worker 5 :  |
+time: 588  worker 1 :  |worker 2 : D |worker 3 : J |worker 4 :  |worker 5 :  |
+time: 589  worker 1 :  |worker 2 : D |worker 3 : J |worker 4 :  |worker 5 :  |
+time: 590  worker 1 :  |worker 2 : D |worker 3 : J |worker 4 :  |worker 5 :  |
+time: 591  worker 1 :  |worker 2 : D |worker 3 : J |worker 4 :  |worker 5 :  |
+time: 592  worker 1 :  |worker 2 : D |worker 3 : J |worker 4 :  |worker 5 :  |
+time: 593  worker 1 :  |worker 2 : D |worker 3 : J |worker 4 :  |worker 5 :  |
+time: 594  worker 1 :  |worker 2 : D |worker 3 : J |worker 4 :  |worker 5 :  |
+time: 595  worker 1 :  |worker 2 : D |worker 3 : J |worker 4 :  |worker 5 :  |
+time: 596  worker 1 :  |worker 2 : D |worker 3 : J |worker 4 :  |worker 5 :  |
+time: 597  worker 1 :  |worker 2 : D |worker 3 : J |worker 4 :  |worker 5 :  |
+time: 598  worker 1 :  |worker 2 :  |worker 3 : J |worker 4 :  |worker 5 :  |
+time: 599  worker 1 :  |worker 2 :  |worker 3 : J |worker 4 :  |worker 5 :  |
+time: 600  worker 1 :  |worker 2 :  |worker 3 : J |worker 4 :  |worker 5 :  |
+time: 601  worker 1 :  |worker 2 :  |worker 3 : J |worker 4 :  |worker 5 :  |
+time: 602  worker 1 :  |worker 2 :  |worker 3 : J |worker 4 :  |worker 5 :  |
+time: 603  worker 1 :  |worker 2 :  |worker 3 : J |worker 4 :  |worker 5 :  |
+time: 604  worker 1 :  |worker 2 :  |worker 3 : P |worker 4 :  |worker 5 :  |
+time: 605  worker 1 :  |worker 2 :  |worker 3 : P |worker 4 :  |worker 5 :  |
+time: 606  worker 1 :  |worker 2 :  |worker 3 : P |worker 4 :  |worker 5 :  |
+time: 607  worker 1 :  |worker 2 :  |worker 3 : P |worker 4 :  |worker 5 :  |
+time: 608  worker 1 :  |worker 2 :  |worker 3 : P |worker 4 :  |worker 5 :  |
+time: 609  worker 1 :  |worker 2 :  |worker 3 : P |worker 4 :  |worker 5 :  |
+time: 610  worker 1 :  |worker 2 :  |worker 3 : P |worker 4 :  |worker 5 :  |
+time: 611  worker 1 :  |worker 2 :  |worker 3 : P |worker 4 :  |worker 5 :  |
+time: 612  worker 1 :  |worker 2 :  |worker 3 : P |worker 4 :  |worker 5 :  |
+time: 613  worker 1 :  |worker 2 :  |worker 3 : P |worker 4 :  |worker 5 :  |
+time: 614  worker 1 :  |worker 2 :  |worker 3 : P |worker 4 :  |worker 5 :  |
+time: 615  worker 1 :  |worker 2 :  |worker 3 : P |worker 4 :  |worker 5 :  |
+time: 616  worker 1 :  |worker 2 :  |worker 3 : P |worker 4 :  |worker 5 :  |
+time: 617  worker 1 :  |worker 2 :  |worker 3 : P |worker 4 :  |worker 5 :  |
+time: 618  worker 1 :  |worker 2 :  |worker 3 : P |worker 4 :  |worker 5 :  |
+time: 619  worker 1 :  |worker 2 :  |worker 3 : P |worker 4 :  |worker 5 :  |
+time: 620  worker 1 :  |worker 2 :  |worker 3 : P |worker 4 :  |worker 5 :  |
+time: 621  worker 1 :  |worker 2 :  |worker 3 : P |worker 4 :  |worker 5 :  |
+time: 622  worker 1 :  |worker 2 :  |worker 3 : P |worker 4 :  |worker 5 :  |
+time: 623  worker 1 :  |worker 2 :  |worker 3 : P |worker 4 :  |worker 5 :  |
+time: 624  worker 1 :  |worker 2 :  |worker 3 : P |worker 4 :  |worker 5 :  |
+time: 625  worker 1 :  |worker 2 :  |worker 3 : P |worker 4 :  |worker 5 :  |
+time: 626  worker 1 :  |worker 2 :  |worker 3 : P |worker 4 :  |worker 5 :  |
+time: 627  worker 1 :  |worker 2 :  |worker 3 : P |worker 4 :  |worker 5 :  |
+time: 628  worker 1 :  |worker 2 :  |worker 3 : P |worker 4 :  |worker 5 :  |
+time: 629  worker 1 :  |worker 2 :  |worker 3 : P |worker 4 :  |worker 5 :  |
+time: 630  worker 1 :  |worker 2 :  |worker 3 : P |worker 4 :  |worker 5 :  |
+time: 631  worker 1 :  |worker 2 :  |worker 3 : P |worker 4 :  |worker 5 :  |
+time: 632  worker 1 :  |worker 2 :  |worker 3 : P |worker 4 :  |worker 5 :  |
+time: 633  worker 1 :  |worker 2 :  |worker 3 : P |worker 4 :  |worker 5 :  |
+time: 634  worker 1 :  |worker 2 :  |worker 3 : P |worker 4 :  |worker 5 :  |
+time: 635  worker 1 :  |worker 2 :  |worker 3 : P |worker 4 :  |worker 5 :  |
+time: 636  worker 1 :  |worker 2 :  |worker 3 : P |worker 4 :  |worker 5 :  |
+time: 637  worker 1 :  |worker 2 :  |worker 3 : P |worker 4 :  |worker 5 :  |
+time: 638  worker 1 :  |worker 2 :  |worker 3 : P |worker 4 :  |worker 5 :  |
+time: 639  worker 1 :  |worker 2 :  |worker 3 : P |worker 4 :  |worker 5 :  |
+time: 640  worker 1 :  |worker 2 :  |worker 3 : P |worker 4 :  |worker 5 :  |
+time: 641  worker 1 :  |worker 2 :  |worker 3 : P |worker 4 :  |worker 5 :  |
+time: 642  worker 1 :  |worker 2 :  |worker 3 : P |worker 4 :  |worker 5 :  |
+time: 643  worker 1 :  |worker 2 :  |worker 3 : P |worker 4 :  |worker 5 :  |
+time: 644  worker 1 :  |worker 2 :  |worker 3 : P |worker 4 :  |worker 5 :  |
+time: 645  worker 1 :  |worker 2 :  |worker 3 : P |worker 4 :  |worker 5 :  |
+time: 646  worker 1 :  |worker 2 :  |worker 3 : P |worker 4 :  |worker 5 :  |
+time: 647  worker 1 :  |worker 2 :  |worker 3 : P |worker 4 :  |worker 5 :  |
+time: 648  worker 1 :  |worker 2 :  |worker 3 : P |worker 4 :  |worker 5 :  |
+time: 649  worker 1 :  |worker 2 :  |worker 3 : P |worker 4 :  |worker 5 :  |
+time: 650  worker 1 :  |worker 2 :  |worker 3 : P |worker 4 :  |worker 5 :  |
+time: 651  worker 1 :  |worker 2 :  |worker 3 : P |worker 4 :  |worker 5 :  |
+time: 652  worker 1 :  |worker 2 :  |worker 3 : P |worker 4 :  |worker 5 :  |
+time: 653  worker 1 :  |worker 2 :  |worker 3 : P |worker 4 :  |worker 5 :  |
+time: 654  worker 1 :  |worker 2 :  |worker 3 : P |worker 4 :  |worker 5 :  |
+time: 655  worker 1 :  |worker 2 :  |worker 3 : P |worker 4 :  |worker 5 :  |
+time: 656  worker 1 :  |worker 2 :  |worker 3 : P |worker 4 :  |worker 5 :  |
+time: 657  worker 1 :  |worker 2 :  |worker 3 : P |worker 4 :  |worker 5 :  |
+time: 658  worker 1 :  |worker 2 :  |worker 3 : P |worker 4 :  |worker 5 :  |
+time: 659  worker 1 :  |worker 2 :  |worker 3 : P |worker 4 :  |worker 5 :  |
+time: 660  worker 1 :  |worker 2 :  |worker 3 : P |worker 4 :  |worker 5 :  |
+time: 661  worker 1 :  |worker 2 :  |worker 3 : P |worker 4 :  |worker 5 :  |
+time: 662  worker 1 :  |worker 2 :  |worker 3 : P |worker 4 :  |worker 5 :  |
+time: 663  worker 1 :  |worker 2 :  |worker 3 : P |worker 4 :  |worker 5 :  |
+time: 664  worker 1 :  |worker 2 :  |worker 3 : P |worker 4 :  |worker 5 :  |
+time: 665  worker 1 :  |worker 2 :  |worker 3 : P |worker 4 :  |worker 5 :  |
+time: 666  worker 1 :  |worker 2 :  |worker 3 : P |worker 4 :  |worker 5 :  |
+time: 667  worker 1 :  |worker 2 :  |worker 3 : P |worker 4 :  |worker 5 :  |
+time: 668  worker 1 :  |worker 2 :  |worker 3 : P |worker 4 :  |worker 5 :  |
+time: 669  worker 1 :  |worker 2 :  |worker 3 : P |worker 4 :  |worker 5 :  |
+time: 670  worker 1 :  |worker 2 :  |worker 3 : P |worker 4 :  |worker 5 :  |
+time: 671  worker 1 :  |worker 2 :  |worker 3 : P |worker 4 :  |worker 5 :  |
+time: 672  worker 1 :  |worker 2 :  |worker 3 : P |worker 4 :  |worker 5 :  |
+time: 673  worker 1 :  |worker 2 :  |worker 3 : P |worker 4 :  |worker 5 :  |
+time: 674  worker 1 :  |worker 2 :  |worker 3 : P |worker 4 :  |worker 5 :  |
+time: 675  worker 1 :  |worker 2 :  |worker 3 : P |worker 4 :  |worker 5 :  |
+time: 676  worker 1 :  |worker 2 :  |worker 3 : P |worker 4 :  |worker 5 :  |
+time: 677  worker 1 :  |worker 2 :  |worker 3 : P |worker 4 :  |worker 5 :  |
+time: 678  worker 1 :  |worker 2 :  |worker 3 : P |worker 4 :  |worker 5 :  |
+time: 679  worker 1 :  |worker 2 :  |worker 3 : P |worker 4 :  |worker 5 :  |
+time: 680  worker 1 :  |worker 2 :  |worker 3 : K |worker 4 :  |worker 5 :  |
+time: 681  worker 1 :  |worker 2 :  |worker 3 : K |worker 4 :  |worker 5 :  |
+time: 682  worker 1 :  |worker 2 :  |worker 3 : K |worker 4 :  |worker 5 :  |
+time: 683  worker 1 :  |worker 2 :  |worker 3 : K |worker 4 :  |worker 5 :  |
+time: 684  worker 1 :  |worker 2 :  |worker 3 : K |worker 4 :  |worker 5 :  |
+time: 685  worker 1 :  |worker 2 :  |worker 3 : K |worker 4 :  |worker 5 :  |
+time: 686  worker 1 :  |worker 2 :  |worker 3 : K |worker 4 :  |worker 5 :  |
+time: 687  worker 1 :  |worker 2 :  |worker 3 : K |worker 4 :  |worker 5 :  |
+time: 688  worker 1 :  |worker 2 :  |worker 3 : K |worker 4 :  |worker 5 :  |
+time: 689  worker 1 :  |worker 2 :  |worker 3 : K |worker 4 :  |worker 5 :  |
+time: 690  worker 1 :  |worker 2 :  |worker 3 : K |worker 4 :  |worker 5 :  |
+time: 691  worker 1 :  |worker 2 :  |worker 3 : K |worker 4 :  |worker 5 :  |
+time: 692  worker 1 :  |worker 2 :  |worker 3 : K |worker 4 :  |worker 5 :  |
+time: 693  worker 1 :  |worker 2 :  |worker 3 : K |worker 4 :  |worker 5 :  |
+time: 694  worker 1 :  |worker 2 :  |worker 3 : K |worker 4 :  |worker 5 :  |
+time: 695  worker 1 :  |worker 2 :  |worker 3 : K |worker 4 :  |worker 5 :  |
+time: 696  worker 1 :  |worker 2 :  |worker 3 : K |worker 4 :  |worker 5 :  |
+time: 697  worker 1 :  |worker 2 :  |worker 3 : K |worker 4 :  |worker 5 :  |
+time: 698  worker 1 :  |worker 2 :  |worker 3 : K |worker 4 :  |worker 5 :  |
+time: 699  worker 1 :  |worker 2 :  |worker 3 : K |worker 4 :  |worker 5 :  |
+time: 700  worker 1 :  |worker 2 :  |worker 3 : K |worker 4 :  |worker 5 :  |
+time: 701  worker 1 :  |worker 2 :  |worker 3 : K |worker 4 :  |worker 5 :  |
+time: 702  worker 1 :  |worker 2 :  |worker 3 : K |worker 4 :  |worker 5 :  |
+time: 703  worker 1 :  |worker 2 :  |worker 3 : K |worker 4 :  |worker 5 :  |
+time: 704  worker 1 :  |worker 2 :  |worker 3 : K |worker 4 :  |worker 5 :  |
+time: 705  worker 1 :  |worker 2 :  |worker 3 : K |worker 4 :  |worker 5 :  |
+time: 706  worker 1 :  |worker 2 :  |worker 3 : K |worker 4 :  |worker 5 :  |
+time: 707  worker 1 :  |worker 2 :  |worker 3 : K |worker 4 :  |worker 5 :  |
+time: 708  worker 1 :  |worker 2 :  |worker 3 : K |worker 4 :  |worker 5 :  |
+time: 709  worker 1 :  |worker 2 :  |worker 3 : K |worker 4 :  |worker 5 :  |
+time: 710  worker 1 :  |worker 2 :  |worker 3 : K |worker 4 :  |worker 5 :  |
+time: 711  worker 1 :  |worker 2 :  |worker 3 : K |worker 4 :  |worker 5 :  |
+time: 712  worker 1 :  |worker 2 :  |worker 3 : K |worker 4 :  |worker 5 :  |
+time: 713  worker 1 :  |worker 2 :  |worker 3 : K |worker 4 :  |worker 5 :  |
+time: 714  worker 1 :  |worker 2 :  |worker 3 : K |worker 4 :  |worker 5 :  |
+time: 715  worker 1 :  |worker 2 :  |worker 3 : K |worker 4 :  |worker 5 :  |
+time: 716  worker 1 :  |worker 2 :  |worker 3 : K |worker 4 :  |worker 5 :  |
+time: 717  worker 1 :  |worker 2 :  |worker 3 : K |worker 4 :  |worker 5 :  |
+time: 718  worker 1 :  |worker 2 :  |worker 3 : K |worker 4 :  |worker 5 :  |
+time: 719  worker 1 :  |worker 2 :  |worker 3 : K |worker 4 :  |worker 5 :  |
+time: 720  worker 1 :  |worker 2 :  |worker 3 : K |worker 4 :  |worker 5 :  |
+time: 721  worker 1 :  |worker 2 :  |worker 3 : K |worker 4 :  |worker 5 :  |
+time: 722  worker 1 :  |worker 2 :  |worker 3 : K |worker 4 :  |worker 5 :  |
+time: 723  worker 1 :  |worker 2 :  |worker 3 : K |worker 4 :  |worker 5 :  |
+time: 724  worker 1 :  |worker 2 :  |worker 3 : K |worker 4 :  |worker 5 :  |
+time: 725  worker 1 :  |worker 2 :  |worker 3 : K |worker 4 :  |worker 5 :  |
+time: 726  worker 1 :  |worker 2 :  |worker 3 : K |worker 4 :  |worker 5 :  |
+time: 727  worker 1 :  |worker 2 :  |worker 3 : K |worker 4 :  |worker 5 :  |
+time: 728  worker 1 :  |worker 2 :  |worker 3 : K |worker 4 :  |worker 5 :  |
+time: 729  worker 1 :  |worker 2 :  |worker 3 : K |worker 4 :  |worker 5 :  |
+time: 730  worker 1 :  |worker 2 :  |worker 3 : K |worker 4 :  |worker 5 :  |
+time: 731  worker 1 :  |worker 2 :  |worker 3 : K |worker 4 :  |worker 5 :  |
+time: 732  worker 1 :  |worker 2 :  |worker 3 : K |worker 4 :  |worker 5 :  |
+time: 733  worker 1 :  |worker 2 :  |worker 3 : K |worker 4 :  |worker 5 :  |
+time: 734  worker 1 :  |worker 2 :  |worker 3 : K |worker 4 :  |worker 5 :  |
+time: 735  worker 1 :  |worker 2 :  |worker 3 : K |worker 4 :  |worker 5 :  |
+time: 736  worker 1 :  |worker 2 :  |worker 3 : K |worker 4 :  |worker 5 :  |
+time: 737  worker 1 :  |worker 2 :  |worker 3 : K |worker 4 :  |worker 5 :  |
+time: 738  worker 1 :  |worker 2 :  |worker 3 : K |worker 4 :  |worker 5 :  |
+time: 739  worker 1 :  |worker 2 :  |worker 3 : K |worker 4 :  |worker 5 :  |
+time: 740  worker 1 :  |worker 2 :  |worker 3 : K |worker 4 :  |worker 5 :  |
+time: 741  worker 1 :  |worker 2 :  |worker 3 : K |worker 4 :  |worker 5 :  |
+time: 742  worker 1 :  |worker 2 :  |worker 3 : K |worker 4 :  |worker 5 :  |
+time: 743  worker 1 :  |worker 2 :  |worker 3 : K |worker 4 :  |worker 5 :  |
+time: 744  worker 1 :  |worker 2 :  |worker 3 : K |worker 4 :  |worker 5 :  |
+time: 745  worker 1 :  |worker 2 :  |worker 3 : K |worker 4 :  |worker 5 :  |
+time: 746  worker 1 :  |worker 2 :  |worker 3 : K |worker 4 :  |worker 5 :  |
+time: 747  worker 1 :  |worker 2 :  |worker 3 : K |worker 4 :  |worker 5 :  |
+time: 748  worker 1 :  |worker 2 :  |worker 3 : K |worker 4 :  |worker 5 :  |
+time: 749  worker 1 :  |worker 2 :  |worker 3 : K |worker 4 :  |worker 5 :  |
+time: 750  worker 1 :  |worker 2 :  |worker 3 : K |worker 4 :  |worker 5 :  |
+time: 751  worker 1 :  |worker 2 :  |worker 3 : V |worker 4 :  |worker 5 :  |
+time: 752  worker 1 :  |worker 2 :  |worker 3 : V |worker 4 :  |worker 5 :  |
+time: 753  worker 1 :  |worker 2 :  |worker 3 : V |worker 4 :  |worker 5 :  |
+time: 754  worker 1 :  |worker 2 :  |worker 3 : V |worker 4 :  |worker 5 :  |
+time: 755  worker 1 :  |worker 2 :  |worker 3 : V |worker 4 :  |worker 5 :  |
+time: 756  worker 1 :  |worker 2 :  |worker 3 : V |worker 4 :  |worker 5 :  |
+time: 757  worker 1 :  |worker 2 :  |worker 3 : V |worker 4 :  |worker 5 :  |
+time: 758  worker 1 :  |worker 2 :  |worker 3 : V |worker 4 :  |worker 5 :  |
+time: 759  worker 1 :  |worker 2 :  |worker 3 : V |worker 4 :  |worker 5 :  |
+time: 760  worker 1 :  |worker 2 :  |worker 3 : V |worker 4 :  |worker 5 :  |
+time: 761  worker 1 :  |worker 2 :  |worker 3 : V |worker 4 :  |worker 5 :  |
+time: 762  worker 1 :  |worker 2 :  |worker 3 : V |worker 4 :  |worker 5 :  |
+time: 763  worker 1 :  |worker 2 :  |worker 3 : V |worker 4 :  |worker 5 :  |
+time: 764  worker 1 :  |worker 2 :  |worker 3 : V |worker 4 :  |worker 5 :  |
+time: 765  worker 1 :  |worker 2 :  |worker 3 : V |worker 4 :  |worker 5 :  |
+time: 766  worker 1 :  |worker 2 :  |worker 3 : V |worker 4 :  |worker 5 :  |
+time: 767  worker 1 :  |worker 2 :  |worker 3 : V |worker 4 :  |worker 5 :  |
+time: 768  worker 1 :  |worker 2 :  |worker 3 : V |worker 4 :  |worker 5 :  |
+time: 769  worker 1 :  |worker 2 :  |worker 3 : V |worker 4 :  |worker 5 :  |
+time: 770  worker 1 :  |worker 2 :  |worker 3 : V |worker 4 :  |worker 5 :  |
+time: 771  worker 1 :  |worker 2 :  |worker 3 : V |worker 4 :  |worker 5 :  |
+time: 772  worker 1 :  |worker 2 :  |worker 3 : V |worker 4 :  |worker 5 :  |
+time: 773  worker 1 :  |worker 2 :  |worker 3 : V |worker 4 :  |worker 5 :  |
+time: 774  worker 1 :  |worker 2 :  |worker 3 : V |worker 4 :  |worker 5 :  |
+time: 775  worker 1 :  |worker 2 :  |worker 3 : V |worker 4 :  |worker 5 :  |
+time: 776  worker 1 :  |worker 2 :  |worker 3 : V |worker 4 :  |worker 5 :  |
+time: 777  worker 1 :  |worker 2 :  |worker 3 : V |worker 4 :  |worker 5 :  |
+time: 778  worker 1 :  |worker 2 :  |worker 3 : V |worker 4 :  |worker 5 :  |
+time: 779  worker 1 :  |worker 2 :  |worker 3 : V |worker 4 :  |worker 5 :  |
+time: 780  worker 1 :  |worker 2 :  |worker 3 : V |worker 4 :  |worker 5 :  |
+time: 781  worker 1 :  |worker 2 :  |worker 3 : V |worker 4 :  |worker 5 :  |
+time: 782  worker 1 :  |worker 2 :  |worker 3 : V |worker 4 :  |worker 5 :  |
+time: 783  worker 1 :  |worker 2 :  |worker 3 : V |worker 4 :  |worker 5 :  |
+time: 784  worker 1 :  |worker 2 :  |worker 3 : V |worker 4 :  |worker 5 :  |
+time: 785  worker 1 :  |worker 2 :  |worker 3 : V |worker 4 :  |worker 5 :  |
+time: 786  worker 1 :  |worker 2 :  |worker 3 : V |worker 4 :  |worker 5 :  |
+time: 787  worker 1 :  |worker 2 :  |worker 3 : V |worker 4 :  |worker 5 :  |
+time: 788  worker 1 :  |worker 2 :  |worker 3 : V |worker 4 :  |worker 5 :  |
+time: 789  worker 1 :  |worker 2 :  |worker 3 : V |worker 4 :  |worker 5 :  |
+time: 790  worker 1 :  |worker 2 :  |worker 3 : V |worker 4 :  |worker 5 :  |
+time: 791  worker 1 :  |worker 2 :  |worker 3 : V |worker 4 :  |worker 5 :  |
+time: 792  worker 1 :  |worker 2 :  |worker 3 : V |worker 4 :  |worker 5 :  |
+time: 793  worker 1 :  |worker 2 :  |worker 3 : V |worker 4 :  |worker 5 :  |
+time: 794  worker 1 :  |worker 2 :  |worker 3 : V |worker 4 :  |worker 5 :  |
+time: 795  worker 1 :  |worker 2 :  |worker 3 : V |worker 4 :  |worker 5 :  |
+time: 796  worker 1 :  |worker 2 :  |worker 3 : V |worker 4 :  |worker 5 :  |
+time: 797  worker 1 :  |worker 2 :  |worker 3 : V |worker 4 :  |worker 5 :  |
+time: 798  worker 1 :  |worker 2 :  |worker 3 : V |worker 4 :  |worker 5 :  |
+time: 799  worker 1 :  |worker 2 :  |worker 3 : V |worker 4 :  |worker 5 :  |
+time: 800  worker 1 :  |worker 2 :  |worker 3 : V |worker 4 :  |worker 5 :  |
+time: 801  worker 1 :  |worker 2 :  |worker 3 : V |worker 4 :  |worker 5 :  |
+time: 802  worker 1 :  |worker 2 :  |worker 3 : V |worker 4 :  |worker 5 :  |
+time: 803  worker 1 :  |worker 2 :  |worker 3 : V |worker 4 :  |worker 5 :  |
+time: 804  worker 1 :  |worker 2 :  |worker 3 : V |worker 4 :  |worker 5 :  |
+time: 805  worker 1 :  |worker 2 :  |worker 3 : V |worker 4 :  |worker 5 :  |
+time: 806  worker 1 :  |worker 2 :  |worker 3 : V |worker 4 :  |worker 5 :  |
+time: 807  worker 1 :  |worker 2 :  |worker 3 : V |worker 4 :  |worker 5 :  |
+time: 808  worker 1 :  |worker 2 :  |worker 3 : V |worker 4 :  |worker 5 :  |
+time: 809  worker 1 :  |worker 2 :  |worker 3 : V |worker 4 :  |worker 5 :  |
+time: 810  worker 1 :  |worker 2 :  |worker 3 : V |worker 4 :  |worker 5 :  |
+time: 811  worker 1 :  |worker 2 :  |worker 3 : V |worker 4 :  |worker 5 :  |
+time: 812  worker 1 :  |worker 2 :  |worker 3 : V |worker 4 :  |worker 5 :  |
+time: 813  worker 1 :  |worker 2 :  |worker 3 : V |worker 4 :  |worker 5 :  |
+time: 814  worker 1 :  |worker 2 :  |worker 3 : V |worker 4 :  |worker 5 :  |
+time: 815  worker 1 :  |worker 2 :  |worker 3 : V |worker 4 :  |worker 5 :  |
+time: 816  worker 1 :  |worker 2 :  |worker 3 : V |worker 4 :  |worker 5 :  |
+time: 817  worker 1 :  |worker 2 :  |worker 3 : V |worker 4 :  |worker 5 :  |
+time: 818  worker 1 :  |worker 2 :  |worker 3 : V |worker 4 :  |worker 5 :  |
+time: 819  worker 1 :  |worker 2 :  |worker 3 : V |worker 4 :  |worker 5 :  |
+time: 820  worker 1 :  |worker 2 :  |worker 3 : V |worker 4 :  |worker 5 :  |
+time: 821  worker 1 :  |worker 2 :  |worker 3 : V |worker 4 :  |worker 5 :  |
+time: 822  worker 1 :  |worker 2 :  |worker 3 : V |worker 4 :  |worker 5 :  |
+time: 823  worker 1 :  |worker 2 :  |worker 3 : V |worker 4 :  |worker 5 :  |
+time: 824  worker 1 :  |worker 2 :  |worker 3 : V |worker 4 :  |worker 5 :  |
+time: 825  worker 1 :  |worker 2 :  |worker 3 : V |worker 4 :  |worker 5 :  |
+time: 826  worker 1 :  |worker 2 :  |worker 3 : V |worker 4 :  |worker 5 :  |
+time: 827  worker 1 :  |worker 2 :  |worker 3 : V |worker 4 :  |worker 5 :  |
+time: 828  worker 1 :  |worker 2 :  |worker 3 : V |worker 4 :  |worker 5 :  |
+time: 829  worker 1 :  |worker 2 :  |worker 3 : V |worker 4 :  |worker 5 :  |
+time: 830  worker 1 :  |worker 2 :  |worker 3 : V |worker 4 :  |worker 5 :  |
+time: 831  worker 1 :  |worker 2 :  |worker 3 : V |worker 4 :  |worker 5 :  |
+time: 832  worker 1 :  |worker 2 :  |worker 3 : V |worker 4 :  |worker 5 :  |
+time: 833  worker 1 :  |worker 2 :  |worker 3 : Y |worker 4 :  |worker 5 :  |
+time: 834  worker 1 :  |worker 2 :  |worker 3 : Y |worker 4 :  |worker 5 :  |
+time: 835  worker 1 :  |worker 2 :  |worker 3 : Y |worker 4 :  |worker 5 :  |
+time: 836  worker 1 :  |worker 2 :  |worker 3 : Y |worker 4 :  |worker 5 :  |
+time: 837  worker 1 :  |worker 2 :  |worker 3 : Y |worker 4 :  |worker 5 :  |
+time: 838  worker 1 :  |worker 2 :  |worker 3 : Y |worker 4 :  |worker 5 :  |
+time: 839  worker 1 :  |worker 2 :  |worker 3 : Y |worker 4 :  |worker 5 :  |
+time: 840  worker 1 :  |worker 2 :  |worker 3 : Y |worker 4 :  |worker 5 :  |
+time: 841  worker 1 :  |worker 2 :  |worker 3 : Y |worker 4 :  |worker 5 :  |
+time: 842  worker 1 :  |worker 2 :  |worker 3 : Y |worker 4 :  |worker 5 :  |
+time: 843  worker 1 :  |worker 2 :  |worker 3 : Y |worker 4 :  |worker 5 :  |
+time: 844  worker 1 :  |worker 2 :  |worker 3 : Y |worker 4 :  |worker 5 :  |
+time: 845  worker 1 :  |worker 2 :  |worker 3 : Y |worker 4 :  |worker 5 :  |
+time: 846  worker 1 :  |worker 2 :  |worker 3 : Y |worker 4 :  |worker 5 :  |
+time: 847  worker 1 :  |worker 2 :  |worker 3 : Y |worker 4 :  |worker 5 :  |
+time: 848  worker 1 :  |worker 2 :  |worker 3 : Y |worker 4 :  |worker 5 :  |
+time: 849  worker 1 :  |worker 2 :  |worker 3 : Y |worker 4 :  |worker 5 :  |
+time: 850  worker 1 :  |worker 2 :  |worker 3 : Y |worker 4 :  |worker 5 :  |
+time: 851  worker 1 :  |worker 2 :  |worker 3 : Y |worker 4 :  |worker 5 :  |
+time: 852  worker 1 :  |worker 2 :  |worker 3 : Y |worker 4 :  |worker 5 :  |
+time: 853  worker 1 :  |worker 2 :  |worker 3 : Y |worker 4 :  |worker 5 :  |
+time: 854  worker 1 :  |worker 2 :  |worker 3 : Y |worker 4 :  |worker 5 :  |
+time: 855  worker 1 :  |worker 2 :  |worker 3 : Y |worker 4 :  |worker 5 :  |
+time: 856  worker 1 :  |worker 2 :  |worker 3 : Y |worker 4 :  |worker 5 :  |
+time: 857  worker 1 :  |worker 2 :  |worker 3 : Y |worker 4 :  |worker 5 :  |
+time: 858  worker 1 :  |worker 2 :  |worker 3 : Y |worker 4 :  |worker 5 :  |
+time: 859  worker 1 :  |worker 2 :  |worker 3 : Y |worker 4 :  |worker 5 :  |
+time: 860  worker 1 :  |worker 2 :  |worker 3 : Y |worker 4 :  |worker 5 :  |
+time: 861  worker 1 :  |worker 2 :  |worker 3 : Y |worker 4 :  |worker 5 :  |
+time: 862  worker 1 :  |worker 2 :  |worker 3 : Y |worker 4 :  |worker 5 :  |
+time: 863  worker 1 :  |worker 2 :  |worker 3 : Y |worker 4 :  |worker 5 :  |
+time: 864  worker 1 :  |worker 2 :  |worker 3 : Y |worker 4 :  |worker 5 :  |
+time: 865  worker 1 :  |worker 2 :  |worker 3 : Y |worker 4 :  |worker 5 :  |
+time: 866  worker 1 :  |worker 2 :  |worker 3 : Y |worker 4 :  |worker 5 :  |
+time: 867  worker 1 :  |worker 2 :  |worker 3 : Y |worker 4 :  |worker 5 :  |
+time: 868  worker 1 :  |worker 2 :  |worker 3 : Y |worker 4 :  |worker 5 :  |
+time: 869  worker 1 :  |worker 2 :  |worker 3 : Y |worker 4 :  |worker 5 :  |
+time: 870  worker 1 :  |worker 2 :  |worker 3 : Y |worker 4 :  |worker 5 :  |
+time: 871  worker 1 :  |worker 2 :  |worker 3 : Y |worker 4 :  |worker 5 :  |
+time: 872  worker 1 :  |worker 2 :  |worker 3 : Y |worker 4 :  |worker 5 :  |
+time: 873  worker 1 :  |worker 2 :  |worker 3 : Y |worker 4 :  |worker 5 :  |
+time: 874  worker 1 :  |worker 2 :  |worker 3 : Y |worker 4 :  |worker 5 :  |
+time: 875  worker 1 :  |worker 2 :  |worker 3 : Y |worker 4 :  |worker 5 :  |
+time: 876  worker 1 :  |worker 2 :  |worker 3 : Y |worker 4 :  |worker 5 :  |
+time: 877  worker 1 :  |worker 2 :  |worker 3 : Y |worker 4 :  |worker 5 :  |
+time: 878  worker 1 :  |worker 2 :  |worker 3 : Y |worker 4 :  |worker 5 :  |
+time: 879  worker 1 :  |worker 2 :  |worker 3 : Y |worker 4 :  |worker 5 :  |
+time: 880  worker 1 :  |worker 2 :  |worker 3 : Y |worker 4 :  |worker 5 :  |
+time: 881  worker 1 :  |worker 2 :  |worker 3 : Y |worker 4 :  |worker 5 :  |
+time: 882  worker 1 :  |worker 2 :  |worker 3 : Y |worker 4 :  |worker 5 :  |
+time: 883  worker 1 :  |worker 2 :  |worker 3 : Y |worker 4 :  |worker 5 :  |
+time: 884  worker 1 :  |worker 2 :  |worker 3 : Y |worker 4 :  |worker 5 :  |
+time: 885  worker 1 :  |worker 2 :  |worker 3 : Y |worker 4 :  |worker 5 :  |
+time: 886  worker 1 :  |worker 2 :  |worker 3 : Y |worker 4 :  |worker 5 :  |
+time: 887  worker 1 :  |worker 2 :  |worker 3 : Y |worker 4 :  |worker 5 :  |
+time: 888  worker 1 :  |worker 2 :  |worker 3 : Y |worker 4 :  |worker 5 :  |
+time: 889  worker 1 :  |worker 2 :  |worker 3 : Y |worker 4 :  |worker 5 :  |
+time: 890  worker 1 :  |worker 2 :  |worker 3 : Y |worker 4 :  |worker 5 :  |
+time: 891  worker 1 :  |worker 2 :  |worker 3 : Y |worker 4 :  |worker 5 :  |
+time: 892  worker 1 :  |worker 2 :  |worker 3 : Y |worker 4 :  |worker 5 :  |
+time: 893  worker 1 :  |worker 2 :  |worker 3 : Y |worker 4 :  |worker 5 :  |
+time: 894  worker 1 :  |worker 2 :  |worker 3 : Y |worker 4 :  |worker 5 :  |
+time: 895  worker 1 :  |worker 2 :  |worker 3 : Y |worker 4 :  |worker 5 :  |
+time: 896  worker 1 :  |worker 2 :  |worker 3 : Y |worker 4 :  |worker 5 :  |
+time: 897  worker 1 :  |worker 2 :  |worker 3 : Y |worker 4 :  |worker 5 :  |
+time: 898  worker 1 :  |worker 2 :  |worker 3 : Y |worker 4 :  |worker 5 :  |
+time: 899  worker 1 :  |worker 2 :  |worker 3 : Y |worker 4 :  |worker 5 :  |
+time: 900  worker 1 :  |worker 2 :  |worker 3 : Y |worker 4 :  |worker 5 :  |
+time: 901  worker 1 :  |worker 2 :  |worker 3 : Y |worker 4 :  |worker 5 :  |
+time: 902  worker 1 :  |worker 2 :  |worker 3 : Y |worker 4 :  |worker 5 :  |
+time: 903  worker 1 :  |worker 2 :  |worker 3 : Y |worker 4 :  |worker 5 :  |
+time: 904  worker 1 :  |worker 2 :  |worker 3 : Y |worker 4 :  |worker 5 :  |
+time: 905  worker 1 :  |worker 2 :  |worker 3 : Y |worker 4 :  |worker 5 :  |
+time: 906  worker 1 :  |worker 2 :  |worker 3 : Y |worker 4 :  |worker 5 :  |
+time: 907  worker 1 :  |worker 2 :  |worker 3 : Y |worker 4 :  |worker 5 :  |
+time: 908  worker 1 :  |worker 2 :  |worker 3 : Y |worker 4 :  |worker 5 :  |
+time: 909  worker 1 :  |worker 2 :  |worker 3 : Y |worker 4 :  |worker 5 :  |
+time: 910  worker 1 :  |worker 2 :  |worker 3 : Y |worker 4 :  |worker 5 :  |
+time: 911  worker 1 :  |worker 2 :  |worker 3 : Y |worker 4 :  |worker 5 :  |
+time: 912  worker 1 :  |worker 2 :  |worker 3 : Y |worker 4 :  |worker 5 :  |
+time: 913  worker 1 :  |worker 2 :  |worker 3 : Y |worker 4 :  |worker 5 :  |
+time: 914  worker 1 :  |worker 2 :  |worker 3 : Y |worker 4 :  |worker 5 :  |
+time: 915  worker 1 :  |worker 2 :  |worker 3 : Y |worker 4 :  |worker 5 :  |
+time: 916  worker 1 :  |worker 2 :  |worker 3 : Y |worker 4 :  |worker 5 :  |
+time: 917  worker 1 :  |worker 2 :  |worker 3 : Y |worker 4 :  |worker 5 :  |
+time: 918  worker 1 :  |worker 2 :  |worker 3 :  |worker 4 :  |worker 5 :  |
+part2 answer
+time required : 918
