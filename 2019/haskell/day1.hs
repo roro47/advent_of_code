@@ -2,8 +2,8 @@ import System.IO
 
 input_path = "../input/day1.txt"
 
-main :: IO ()
-main = do
+run :: IO ()
+run = do
     content <- readFile input_path
     input <- return $ map (read::String->Int) (lines content)
     print $ "part1 " ++ show (sum $ map getFuel1 input)

@@ -4,8 +4,8 @@ import Control.Lens
 
 input_path = "../input/day2.txt"
 
-main :: IO ()
-main = do
+run :: IO ()
+run = do
     content <- readFile input_path
     input <- return $ map (read::String -> Int) $ splitOn "," content
     let input1 = newCode input 12 2 in
