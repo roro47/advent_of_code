@@ -16,8 +16,5 @@ getFuel1 mass = mass `div` 3 - 2
 
 -- part2 fuel
 getFuel2 :: Int -> Int
-getFuel2 mass = getFuel' mass
-  where getFuel' mass'
-          | mass' <= 0 = 0
-          | mass == mass' = getFuel' (getFuel1 mass')
-          | otherwise = mass' + getFuel' (getFuel1 mass')
+getFuel2 mass = sum $ takeWhile (> 0) (nextFuel (getFuel1 mass))
+   where nextFuel f = [f] ++ nextFuel (getFuel1 f)
